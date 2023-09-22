@@ -1,0 +1,1197 @@
+"Nazwa","Cena","Popularność","RAM(GB)","GPU","Pamięć GPU(GB)","CPU","Taktowanie(GHz)","Rdzenie","Wątki","Przekątna","System","Indeks"
+"Lenovo V15 G2 ALC Ryzen 3 5300U / 8 GB / 256 GB / W11 (82KD00FYPB)",1699.0,49,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",0
+"HP 15s-eq2344nw Ryzen 3 5300U / 8 GB / 256 GB / W11 (712D3EA)",1899.0,105,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",1
+"Lenovo ThinkBook 15 G4 IAP (21DJ00D3PB)",4199.0,95,16,"Intel Iris Xe",0,"Intel Core i5-1235U",1.3,10,12,15.6,"Windows 11 Pro",2
+"Gigabyte G5 i5-12500H / 16 GB / 512 GB / RTX 4060 / 144 Hz (KF-E3EE313SD)",5149.0,92,16,"NVIDIA GeForce RTX 4060 Laptop GPU",8,"Intel Core i5-12500H",1.8,12,16,15.6,"Brak",3
+"LG Gram 17 2022 (17Z90Q-G.AA58Y)",5599.0,9,16,"Intel Iris Xe",0,"Intel Core i5-1240P",1.2,12,16,17.0,"Windows 11 Home",4
+"Acer Nitro 5 AN515-56 i5-11300H / 8 GB / 512 GB / GTX 1650 / 144 Hz (NH.QAMEP.00T)",2899.0,6,8,"NVIDIA GeForce GTX 1650",4,"Intel Core i5-11300H",3.1,4,8,15.6,"Brak",5
+"HP Pavilion 15-eg2184nw i5-1235U / 8 GB / 512 GB / W11 (712J6EA)",2999.0,16,8,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,15.6,"Windows 11 Home",6
+"Lenovo IdeaPad Gaming 3 15ACH6 (82K200QYPB)",3179.0,264,16,"NVIDIA GeForce GTX 1650",4,"AMD Ryzen 5 5600H",3.3,6,12,15.6,"Brak",7
+"Asus ExpertBook B1 B1500 i7-1165G7 / 8 GB / 256 GB / W11 Pro / MX330 (B1500CEPE-EJ1413XS)",3299.0,11,8,"NVIDIA GeForce MX330",2,"Intel Core i7-1165G7",2.8,4,8,15.6,"Windows 11 Pro",8
+"Dell Vostro 3510 (N8803VN3510EMEA01_N1)",2999.0,41,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",9
+"Asus TUF Gaming F15 FX506LH i5-10300H / 8 GB / 512 GB / W11 / GTX 1650 / 144 Hz (FX506LHB-HN323W)",3299.0,26,8,"NVIDIA GeForce GTX 1650",4,"Intel Core i5-10300H",2.5,4,8,15.6,"Windows 11 Home",10
+"MSI GF63 Thin 11UC-215XPL",3399.0,81,8,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,15.6,"Brak",11
+"Lenovo IdeaPad Gaming 3 15IHU6 i5-11320H / 16 GB / 512 GB / RTX 3050 / 120 Hz (82K101F0PB)",3499.0,168,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11320H",3.2,4,8,15.6,"Brak",12
+"HP ProBook 450 G9 (6A166EA)",3591.4,59,8,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,15.6,"Windows 11 Pro",13
+"Acer Nitro 5 AN515-57 i5-11400H / 16 GB / 512 GB / W11 / RTX 3050 / 144 Hz (NH.QELEP.006)",3899.0,25,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,15.6,"Windows 11 Home",14
+"HP ProBook 450 G9 (6A164EA)",3799.0,51,16,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,15.6,"Windows 11 Pro",15
+"Gigabyte G5 GE i5-12500H / 16 GB / 512 GB / W11 / RTX 3050 / 144 Hz (GE-51EE213SH)",3799.0,52,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-12500H",1.8,12,16,15.6,"Windows 11 Home",16
+"Dell Latitude 3530 ​i5-1235U / ​8 GB / ​256 GB / W11 Pro (BB5497)",4699.0,7,8,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,15.6,"Windows 11 Pro",17
+"MSI Katana GF76 11UE-245XPL",5457.0,253,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-11800H",2.3,8,16,17.3,"Brak",18
+"MSI Katana GF76 12UE-681XPL i7-12650H / 16 GB / 512 GB / RTX 3060 / 144 Hz",5999.0,25,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-12650H",1.7,10,16,17.3,"Brak",19
+"Dream Machines RG4050-17PL25 i7-13700H / 16 GB / 500 GB / RTX 4050 / 144 Hz",6499.0,0,16,"NVIDIA GeForce RTX 4050 Laptop GPU",6,"Intel Core i7-13700H",1.8,14,20,17.3,"Brak",20
+"Asus ROG Strix G15 G513 Ryzen 7 5800H / 16 GB / 1 TB / RTX 3070 / 300 Hz (G513QR-HF003)",6599.0,1,16,"NVIDIA GeForce RTX 3070 Laptop GPU",8,"AMD Ryzen 7 5800H",3.2,8,16,15.6,"Brak",21
+"Asus Zenbook Pro 16X OLED i7-12700H / 16 GB / 1 TB / W11 Pro / RTX 3060 / 90 Hz (UX7602ZM-ME008X)",9499.0,3,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-12700H",1.7,14,20,16.0,"Windows 11 Pro",22
+"MSI Creator Z16HXStudio B13VGTO-002PL i7-13700HX / 32 GB / 2 TB / W11 Pro / RTX 4060 / 120 Hz",15299.0,0,32,"NVIDIA GeForce RTX 4060 Laptop GPU",8,"Intel Core i7-13700HX",1.5,16,24,16.0,"Windows 11 Pro",23
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME)",2049.0,22,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",24
+"Asus TUF Gaming A15 FA506QM (FA506QM-HN008)",4799.0,8,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"AMD Ryzen 7 5800H",3.0,8,16,15.6,"Brak",25
+"HP 255 G7 (2D321EA)",2472.48,2,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",26
+"Lenovo Legion 5 15ARH7H Ryzen 5 6600H / 16 GB / 512 GB / RTX 3060 / 165 Hz (82RD005WPB)",5799.0,14,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"AMD Ryzen 5 6600H",3.3,6,12,15.6,"Brak",27
+"Apple MacBook Pro 16 (MK183ZE/A)",11999.0,3,16,"Apple M1",0,"Apple M1 Pro",3.2,10,10,16.2,"macOS",28
+"LG Gram 15 2022 (15Z90Q-G.AA56Y)",4699.0,5,16,"Intel Iris Xe",0,"Intel Core i5-1240P",1.2,12,16,15.6,"Windows 11 Home",29
+"Lenovo IdeaPad 3 15ALC6 (82KU00W1PB)",1999.0,54,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",30
+"Lenovo V15 G2 (82KB016JPB)",1999.0,29,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Pro",31
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB)",2199.0,49,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",32
+"Lenovo IdeaPad 3 15ABA7 Ryzen 5 5625U / 8 GB / 512 GB (82RN0055PB)",2199.0,48,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Brak",33
+"Lenovo V15 G2 ITL i5-1135G7 / 8 GB / 256 GB / W11 (82KB019DPB)",2299.0,3,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",34
+"Lenovo IdeaPad 3 17IAU7 i5-1235U / 8 GB / 512 GB (82RL0042PB)",2699.0,25,8,"Intel Iris Xe",0,"Intel Core i5-1235U",1.3,10,12,17.3,"Brak",35
+"Lenovo IdeaPad 5 15IAL7 i5-1240P / 16 GB / 512 GB / W11 (82SF005YPB)",3099.0,68,16,"Intel Iris Xe",0,"Intel Core i5-1240P",1.2,12,16,15.6,"Windows 11 Home",36
+"Lenovo IdeaPad Gaming 3 15IHU6 i5-11320H / 8 GB / 512 GB / GTX 1650 / 120 Hz (82K101FAPB)",3099.0,59,8,"NVIDIA GeForce GTX 1650",4,"Intel Core i5-11320H",3.2,4,8,15.6,"Brak",37
+"Lenovo IdeaPad Gaming 3 15IHU6 i5-11320H / 16 GB / 512 GB / GTX 1650 / 120 Hz (82K101F1PB)",3149.0,33,16,"NVIDIA GeForce GTX 1650",4,"Intel Core i5-11320H",3.2,4,8,15.6,"Brak",38
+"Acer Aspire 3 A317-53 (NX.AD0EP.00R)",3195.51,2,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 11 Home",39
+"Lenovo ThinkPad E15 G4 i5-1235U / 16 GB / 512 GB / W11 Pro (21E600DWPB)",4599.0,77,16,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,15.6,"Windows 11 Pro",40
+"Lenovo ThinkPad L14 G3 i5-1235U / 16 GB / 512 GB / W11 Pro (21C1005TPB)",5121.8,19,16,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,14.0,"Windows 11 Pro",41
+"Dell Latitude 5530 (N205L5530MLK15EMEA_VP)",5899.0,16,16,"Intel Iris Xe",0,"Intel Core i5-1245U",1.2,10,12,15.6,"Windows 11 Pro",42
+"Asus ROG Strix Scar 15 G533 (G533ZS-LN025W)",12499.0,5,32,"NVIDIA GeForce RTX 3080 Laptop GPU",8,"Intel Core i9-12900H",2.5,14,20,15.6,"Windows 11 Home",43
+"MSI GF63 Thin 11UD-213XPL",3599.0,113,8,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i5-11400H",2.2,6,12,15.6,"Brak",44
+"Lenovo V15 G2 (82KD00EUPB)",1899.0,18,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Pro",45
+"HP 250 G8 (5N3M3EA) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2550.94,19,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",46
+"Asus ExpertBook P1 P1512 i3-1115G4 / 8 GB / 256 GB (P1512CEA-BQ0183)",1599.0,3,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",47
+"Lenovo IdeaPad 3 15ITL6 (82H8019KPB)",1699.0,36,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",48
+"Lenovo Ideapad 3-15ALC (82KU00VXPB)",1799.0,5,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Brak",49
+"Lenovo IdeaPad 3 15IAU7 (82RK006LPB)",1899.0,55,8,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Brak",50
+"Lenovo IdeaPad 3 15ABA7 Ryzen 3 5425U / 8 GB / 512 GB (82RN0053PB)",1899.0,15,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Brak",51
+"Lenovo IdeaPad 3 15IAU7 (82RK006MPB)",1999.0,8,8,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Windows 11 Home",52
+"HP 15s-fq2619nw (6Y7X5EA) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",1999.0,8,16,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",53
+"Lenovo IdeaPad 3 15ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H8019QPB)",2099.0,63,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",54
+"Lenovo V15 G2 ALC Ryzen 5 5500U / 8 GB / 512 GB / W11 (82KD00G0PB)",2099.0,68,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",55
+"Lenovo IdeaPad 3 17ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H900TSPB)",2199.0,24,8,"Intel UHD Graphics Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Brak",56
+"Lenovo IdeaPad 3 15IAU7 (82RK006NPB)",2399.0,10,8,"Intel Iris Xe",0,"Intel Core i5-1235U",1.3,10,12,15.6,"Windows 11 Home",57
+"Lenovo IdeaPad 3 15IAU7 i5-1235U / 8 GB / 512 GB (82RK006PPB)",2557.4,70,8,"Intel Iris Xe",0,"Intel Core i5-1235U",1.3,10,12,15.6,"Brak",58
+"Dream Machines NL50MU-15PL30 i5-1155G7 / 8 GB / 500 GB",2599.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1155G7",2.5,4,8,15.6,"Brak",59
+"Lenovo ThinkPad E14 G3 Ryzen 5 5500U / 16 GB / 256 GB / W11 (20YDS26200)",2599.0,15,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,14.0,"Windows 11 Pro",60
+"MSI Modern 15 B12M-019PL",2699.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,15.6,"Windows 11 Home",61
+"Microsoft Surface Go 3 Pentium 6500Y / 8 GB / 128 GB / W11 Pro Edu (8VB-00003)",2783.6,4,8,"Intel UHD Graphics 615",0,"Intel Pentium Gold 6500Y",1.1,2,4,10.5,"Windows 11 Pro Edu",62
+"Lenovo IdeaPad 3 17ITL (82H900GKPB)",2799.0,33,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 11 Home",63
+"Asus TUF Gaming A15 FA506 (FA506IHR-HN019)",2899.0,6,8,"NVIDIA GeForce GTX 1650",4,"AMD Ryzen 5 4600H",3.0,8,16,15.6,"Brak",64
+"Dell Vostro 3510 i5-1135G7 / 8 GB / 256 GB / W11 Pro (N8803VN3510EMEA01_N1_PS)",2899.0,6,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",65
+"HP Pavilion 15-eg2214nw i5-1235U / 16 GB / 512 GB (712C2EA)",2899.0,9,16,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,15.6,"Brak",66
+"Asus Vivobook 16X Ryzen 5 5600H / 8 GB / 512 GB (D1603QA-MB291)",2899.0,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5600H",3.3,6,12,16.0,"Brak",67
+"LG UltraPC (16U70Q-G.AA56Y)",2999.0,28,16,"AMD Radeon Vega",0,"AMD Ryzen 5 5625U",2.3,6,12,16.0,"Windows 11 Home",68
+"Dream Machines NL50MU-15PL50 i7-1195G7 / 16 GB / 500 GB",2999.0,0,16,"Intel Iris Xe",0,"Intel Core i7-1195G7",2.9,4,8,15.6,"Brak",69
+"HP 250 G9 (6F2C7EA)",3189.06,20,8,"Intel Iris Xe",0,"Intel Core i5-1245U",0.9,10,12,15.6,"Windows 11 Pro",70
+"Lenovo ThinkBook 15 G4 IAP (21DJ00D2PB)",3199.0,10,8,"Intel Iris Xe",0,"Intel Core i5-1235U",1.3,10,12,15.6,"Windows 11 Pro",71
+"Lenovo ThinkBook 15 G2 ITL i5-1135G7 / 8 GB / 256 GB / W11 (20VE012HPB)",3299.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",72
+"Gigabyte G5 GE i5-12500H / 8 GB / 512 GB / RTX 3050 / 144 Hz (GE-51EE263SD)",3299.0,3,8,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-12500H",1.8,12,16,15.6,"Brak",73
+"HP ProBook 455 G8 (4K7C4EA)",3304.83,57,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5600U",2.3,6,12,15.6,"Windows 10 Pro",74
+"Lenovo ThinkBook 15 G2 ITL i5-1135G7 / 16 GB / 512 GB / W11 (20VE012DPB)",3349.0,48,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",75
+"Lenovo IdeaPad Gaming 3 15ACH6 (82K200QXPB) / 32 GB RAM / 512 GB SSD PCIe",3499.0,3,32,"NVIDIA GeForce GTX 1650",4,"AMD Ryzen 5 5600H",3.3,6,12,15.6,"Brak",76
+"Lenovo IdeaPad Gaming 3 15ARH7 (82SB00BYPB)",3499.0,8,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"AMD Ryzen 5 6600H",3.2,6,12,15.6,"Brak",77
+"Dell Vostro 3510 i5-1135G7 / 16 GB / 512 GB / W11 Pro (N8010VN3510EMEA01_2201_PS)",3499.0,28,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",78
+"Asus Vivobook 15X OLED Ryzen 5 5600H / 16 GB / 512 GB / W11 (D1503QA-L1175W)",3499.0,0,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5600H",3.3,6,12,15.6,"Windows 11 Home",79
+"Dell Vostro 3510 (N8010VN3510EMEA01_2201)",3543.14,18,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Pro",80
+"Lenovo Yoga 7 14ACN6 (82N7006CPB)",3599.0,5,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5600U",2.3,6,12,14.0,"Windows 11 Home",81
+"Acer Nitro 5 i5-12500H / 8 GB / 512 GB / RTX 3050 / 144 Hz (NH.QFJEP.00E)",3599.0,6,8,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-12500H",1.8,12,16,15.6,"Brak",82
+"Lenovo IdeaPad Gaming 3 15ARH7 Ryzen 5 6600H / 16 GB / 512 GB / RTX 3050 / 120 Hz (82SB00BXPB)",3699.0,8,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"AMD Ryzen 5 6600H",3.2,6,12,15.6,"Brak",83
+"Lenovo IdeaPad Gaming 3 16ARH7 (82SC003JPB)",3799.0,26,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"AMD Ryzen 5 6600H",3.3,6,12,16.0,"Brak",84
+"Lenovo ThinkBook 15 G2 ITL i7-1165G7 / 16 GB / 512 GB / W11 (20VE012GPB)",3799.0,3,16,"Intel Iris Xe",0,"Intel Core i7-1165G7",2.8,4,8,15.6,"Windows 11 Pro",85
+"ADATA Xenia 14 (XENIA14I5G11GXELX)",3839.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,14.0,"Windows 10 Home",86
+"MSI Katana GF76 11UC-468XPL",3999.0,136,8,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,17.3,"Brak",87
+"Lenovo Legion 5 17ACH6 (82K0003LPB)",3999.0,42,16,"NVIDIA GeForce GTX 1650",4,"AMD Ryzen 5 5600H",3.3,6,12,17.3,"Brak",88
+"Lenovo ThinkPad E15 G4 Ryzen 3 5425U / 8 GB / 256 GB / W11 Pro (21ED0081PB)",3999.0,3,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Windows 11 Pro",89
+"Lenovo IdeaPad 5 Pro 16ACH6 Ryzen 7 5800H / 16 GB / 1 TB / 120 Hz (82L500VEPB)",3999.0,1,16,"AMD Radeon RX Vega 8",0,"AMD Ryzen 7 5800H",3.2,8,16,16.0,"Brak",90
+"Lenovo IdeaPad Gaming 3 15IHU6 (82K101F0PB) / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Home",3999.0,4,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11320H",3.2,4,8,15.6,"Windows 10 Home",91
+"Asus VivoBook S 16X i5-12500H / 16 GB / 1 TB / W11 / 120 Hz (S5602ZA-KV078W)",3999.0,2,16,"Intel Iris Xe",0,"Intel Core i5-12500H",1.8,12,16,16.0,"Windows 11 Home",92
+"MSI Katana GF76 11UD-633XPL",4054.19,10,8,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,17.3,"Brak",93
+"ADATA Xenia 14 (XENIA14I7G11GXELX)",4099.0,1,16,"Intel Iris Xe",0,"Intel Core i7-1165G7",2.8,4,8,14.0,"Windows 10 Home",94
+"MSI GF63 Thin 11UC-214XPL",4138.99,97,8,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Brak",95
+"Asus TUF Gaming A15 Ryzen 5 4600H / 16 GB / 512 GB / W11 / RTX 3050 / 144 Hz (FA506ICB-HN105W)",4199.0,0,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"AMD Ryzen 5 4600H",3.0,6,12,15.6,"Windows 11 Home",96
+"Lenovo Legion 5 15ARH7 Ryzen 5 6600H / 16 GB / 512 GB / RTX 3050 / 165 Hz (82RE003TPB)",4299.0,19,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"AMD Ryzen 5 6600H",3.3,6,12,15.6,"Brak",97
+"Lenovo Yoga 7 14ITL5 Core i5-1135G7 / 16 GB / 512 GB (82BH00JRPB)",4299.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,14.0,"Windows 11 Home",98
+"Asus VivoBook S 16X i5-12500H / 16 GB / 1 TB / W11 / 120 Hz (S5602ZA-KV079W)",4299.0,4,16,"Intel Iris Xe",0,"Intel Core i5-12500H",1.8,12,16,16.0,"Windows 11 Home",99
+"Lenovo IdeaPad Gaming 3 16ARH7 Ryzen 5 6600H / 16 GB / 512 GB / RTX 3050Ti / 165 Hz (82SC003MPB)",4299.0,0,16,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"AMD Ryzen 5 6600H",3.3,6,12,16.0,"Brak",100
+"Lenovo IdeaPad Gaming 3 15ARH7 Ryzen 5 6600H / 16 GB / 512 GB / W11 / RTX 3050 / 120 Hz (82SB00CPPB)",4299.0,2,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"AMD Ryzen 5 6600H",3.3,6,12,15.6,"Windows 11 Home",101
+"Asus TUF Gaming F15 i5-11400H / 16 GB / 512 GB / W11 / RTX 3050Ti / 144 Hz (FX506HE-HN012W)",4399.0,1,16,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,15.6,"Windows 11 Home",102
+"LG Gram 14 2022 (14Z90Q-G.AA56Y)",4499.0,4,16,"Intel Iris Xe",0,"Intel Core i5-1240P",1.2,12,16,14.0,"Windows 11 Home",103
+"Dell Latitude 3420 i5-1135G7 / 16 GB / 256 GB / W11 Pro (N122L342014EMEA_REF)",4599.09,11,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,14.0,"Windows 11 Pro",104
+"HP ProBook 450 G9 (6A163EA)",4656.89,53,16,"Intel Iris Xe",0,"Intel Core i7-1255U",1.2,10,12,15.6,"Windows 11 Pro",105
+"HP Victus 15-fa0129nw i5-12450H / 16 GB / 512 GB / W11 / RTX 3050Ti / 144 Hz (6Y7X3EA)",4712.99,9,16,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i5-12450H",3.3,8,12,15.6,"Windows 11 Home",106
+"LG Gram 15 2022 (15Z90Q-G.AA55Y)",4699.0,5,16,"Intel Iris Xe",0,"Intel Core i5-1240P",1.2,12,16,15.6,"Windows 11 Home",107
+"LG Gram 14 2022 (14Z90Q-G.AA55Y)",4699.0,5,16,"Intel Iris Xe",0,"Intel Core i5-1240P",1.2,12,16,14.0,"Windows 11 Home",108
+"Lenovo Legion 5 15ARH7 Ryzen 5 6600H / 16 GB / 512 GB / RTX 3050Ti / 165 Hz (82RE003VPB)",4699.0,2,16,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"AMD Ryzen 5 6600H",3.3,6,12,15.6,"Brak",109
+"Lenovo Yoga Slim 7 Carbon 13IAP7 i5-1240P / 16 GB / 512 GB / W11 / 90 Hz (82U9003GPB)",4699.0,4,16,"Intel Iris Xe",0,"Intel Core i5-1240P",1.2,12,16,13.3,"Windows 11 Home",110
+"Dell Latitude 3430 ​i5-1235U / ​8 GB / ​256 GB / W11 Pro (BB5497)",4699.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,14.0,"Windows 11 Pro",111
+"MSI Katana GF76 11UC-467XPL",4715.38,66,8,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,17.3,"Brak",112
+"LG Gram 2w1 14 2022 (14T90Q-G.AA55Y)",4799.0,11,16,"Intel Iris Xe",0,"Intel Core i5-1240P",1.2,12,16,14.0,"Windows 11 Home",113
+"MSI GF63 Thin 11UD-213XPL / 32 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 Pro",4999.0,1,32,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i5-11400H",2.2,6,12,15.6,"Windows 11 Pro",114
+"MSI Katana GF76 11UC-467XPL / 32 GB RAM / 1 TB SSD PCIe",4999.0,5,32,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,17.3,"Brak",115
+"LG Gram 16 2022 (16Z90Q-G.AA55Y)",4999.0,6,16,"Intel Iris Xe",0,"Intel Core i5-1240P",1.2,12,16,16.0,"Windows 11 Home",116
+"Dell Latitude 3430 ​i5-1235U / ​8 GB / ​512 GB / W11 Pro (BB5498)",4999.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,14.0,"Windows 11 Pro",117
+"Acer Nitro 5 i7-12700H / 16 GB / 512 GB / RTX 3050Ti / 144 Hz (NH.QFLEP.006)",4999.0,4,16,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i7-12700H",1.7,14,20,15.6,"Brak",118
+"MSI GF63 Thin 11UC-214XPL / 32 GB RAM / 1 TB SSD PCIe / 1 TB SSD / Windows 10 Pro",5299.0,3,32,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Windows 10 Pro",119
+"LG Gram 17 2022 (17Z90Q-G.AA76Y)",5299.0,27,16,"Intel Iris Xe",0,"Intel Core i7-1260P",1.5,12,16,17.0,"Windows 11 Home",120
+"MSI Katana GF66 12UE-1094XPL i7-12650H / 16 GB / 512 GB / RTX 3060 / 144 Hz",5299.0,4,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-12650H",1.7,10,16,15.6,"Brak",121
+"LG Gram 16 2022 (16Z90Q-G.AA75Y)",5399.0,3,16,"Intel Iris Xe",0,"Intel Core i7-1260P",1.5,12,16,16.0,"Windows 11 Home",122
+"HP Victus 16-d1004nw i7-12700H / 16 GB / 512 GB / RTX 3060 / 144 Hz (6E2Y8EA)",5399.0,6,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-12700H",1.7,14,20,16.1,"Brak",123
+"Asus VivoBook S 16X OLED i5-12500H / 16 GB / 1 TB / W11 (S5602ZA-L2081W)",5399.0,0,16,"Intel Iris Xe",0,"Intel Core i5-12500H",1.8,12,16,16.0,"Windows 11 Home",124
+"Dell Latitude 5530 (N210L5530MLK15EMEA_VP)",5499.0,24,8,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,15.6,"Windows 11 Pro",125
+"Asus Vivobook S 16X Ryzen 7 6800H / 16 GB / 1 TB / W11 / 120 Hz (M5602RA-KV020W)",5599.0,6,16,"AMD Radeon 680M",0,"AMD Ryzen 7 6800H",3.2,8,16,16.0,"Windows 11 Home",126
+"HP EliteBook 850 G8 (5P6W4EA)",5680.99,15,16,"Intel Iris Xe",0,"Intel Core i7-1165G7",2.8,4,8,15.6,"Windows 11 Pro",127
+"LG Gram 14 2022 (14Z90Q-G.AA54Y)",5799.0,7,16,"Intel Iris Xe",0,"Intel Core i5-1240P",1.2,12,16,14.0,"Windows 11 Home",128
+"LG Gram 16 2022 (16Z90Q-G.AA78Y)",5999.0,4,16,"Intel Iris Xe",0,"Intel Core i7-1260P",1.5,12,16,16.0,"Windows 11 Home",129
+"Dell Latitude 5430 (N205L5430MLK14EMEA_VP)",5999.0,9,16,"Intel Iris Xe",0,"Intel Core i5-1245U",1.2,10,12,14.0,"Windows 11 Pro",130
+"Asus ROG Strix G15 G513 (G513RM-HQ064W)",6599.0,1,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"AMD Ryzen 7 6800H",3.2,8,16,15.6,"Windows 11 Home",131
+"Lenovo Legion 5 15ACH6H (82JU00ACPB)",7299.0,10,16,"NVIDIA GeForce RTX 3070 Laptop GPU",8,"AMD Ryzen 7 5800H",3.2,8,16,15.6,"Windows 10 Home",132
+"Dream Machines RG4060-15PL28 i7-13700HX / 16 GB / 1 TB / RTX 4060 / 144 Hz",7799.0,0,16,"NVIDIA GeForce RTX 4060 Laptop GPU",8,"Intel Core i7-13700HX",1.5,16,24,15.6,"Brak",133
+"ADATA Xenia 15 (XENIA15I7G11H3070LX)",7999.0,1,32,"NVIDIA GeForce RTX 3070 Laptop GPU",8,"Intel Core i7-11800H",2.3,8,16,15.6,"Windows 10 Home",134
+"Lenovo Legion 5 Pro 16ITH6H (82JD0090PB) / 32 GB RAM / 1 TB SSD PCIe / Windows 11 Home",7999.0,3,32,"NVIDIA GeForce RTX 3070 Laptop GPU",8,"Intel Core i7-11800H",2.3,8,16,16.0,"Windows 11 Home",135
+"LG Gram 17 2022 (17Z90Q-G.AD78Y)",8299.0,0,32,"Intel Iris Xe",0,"Intel Core i7-1260P",1.5,12,16,17.0,"Windows 11 Home",136
+"Apple MacBook Air 13 M1 (MGN63ZE/A/R1/D2) + 16 GB RAM + 1 TB GB SSD",8699.0,1,16,"Apple M1",0,"Apple M1",3.2,8,8,13.3,"macOS",137
+"Gigabyte Aero 14 OLED BMF i7-13700H / 16 GB / 1 TB / W11 / RTX 4050 / 90 Hz (BMF-72EEBB4SO)",8799.0,0,16,"NVIDIA GeForce RTX 4050 Laptop GPU",6,"Intel Core i7-13700H",1.8,14,20,14.0,"Windows 11 Home",138
+"Asus ROG Zephyrus M16 (GU603ZM-K8016W)",8899.0,2,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-12700H",2.3,14,20,16.0,"Windows 11 Home",139
+"Asus ROG Flow X16 GV601 (GV601RM-M5033W)",10999.0,1,32,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"AMD Ryzen 7 6800HS",3.2,8,16,16.0,"Windows 11 Home",140
+"Gigabyte Aero 16 OLED BSF i7-13700H / 16 GB / 1 TB / W11 / RTX 4070 (BSF-73EE994SO)",11299.0,0,16,"NVIDIA GeForce RTX 4070 Laptop GPU",8,"Intel Core i7-13700H",1.8,14,20,16.0,"Windows 11 Home",141
+"Asus ProArt Studiobook Pro 16 OLED i7-11800H / 64 GB / 2 TB / W11 Pro / RTX A3000 (W7600H3A-L2012X)",11999.0,0,64,"NVIDIA Quadro RTX A3000",6,"Intel Core i7-11800H",2.3,8,16,16.0,"Windows 11 Pro",142
+"Asus ROG Strix Scar 15 G533 (G533ZX-LN043)",14199.0,1,32,"NVIDIA GeForce RTX 3080 Ti Laptop GPU",16,"Intel Core i9-12900H",3.8,14,20,15.6,"Brak",143
+"MSI Creator Z16HXStudio B13VGTO-001PL i9-13950HX / 64 GB / 2 TB / W11 Pro / RTX 4070 / 120 Hz",18499.0,1,64,"NVIDIA GeForce RTX 4070 Laptop GPU",8,"Intel Core i9-13950HX",1.6,24,32,16.0,"Windows 11 Pro",144
+"Dell Vostro 3590 16 GB RAM/ 512 GB M.2 PCIe/ Windows 10 Pro",3439.0,69,16,"Intel UHD Graphics 620",0,"Intel Core i5-10210U",1.6,4,8,15.6,"Windows 10 Pro",145
+"MSI Modern 15 A11MU-1041PL i5-1155G7 / 16 GB / 1 TB / W11",3836.61,64,16,"Intel Iris Xe",0,"Intel Core i5-1155G7",2.5,4,8,15.6,"Windows 11 Home",146
+"HP 15s-eq2008nw (402N6EA)",2899.0,1,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",147
+"HP 255 G7 (2D232EA)",2842.0,4,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Brak",148
+"HP Pavilion 15-cs3031nw (1F7H8EA) 16 GB RAM/ 512 GB M.2 PCIe/ Windows 10 Home",2051.46,23,16,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",149
+"HP 255 G8 (2M9P2EA)",1687.51,1,8,"AMD Radeon RX Vega 3",0,"AMD Athlon Gold 3150U",2.4,2,4,15.6,"Windows 10 Home",150
+"Dell Vostro 3590 (N3503BVN3590BTPCEE01_2005)",3074.73,216,8,"Intel UHD Graphics 620",0,"Intel Core i5-10210U",1.6,4,8,15.6,"Windows 10 Pro",151
+"HP 255 G7 (15A08EA) 16 GB RAM/ 512 GB M.2 PCIe/",2539.0,1,16,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Brak",152
+"Lenovo IdeaPad 3 15ADA05 (81W4002TEU)",2327.87,128,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 5 4500U",2.3,6,6,15.6,"Windows 10 Home",153
+"Lenovo IdeaPad Gaming 3 15IHU6 (82K100HEPB)",3043.13,8,8,"NVIDIA GeForce GTX 1650",4,"Intel Core i5-11300H",3.1,4,8,15.6,"Brak",154
+"Dell Vostro 3590 8 GB RAM/ 512 GB M.2 PCIe/ Windows 10 Pro",3329.0,9,8,"Intel UHD Graphics 620",0,"Intel Core i5-10210U",1.6,4,8,15.6,"Windows 10 Pro",155
+"MSI GF63 Thin 11UC-215XPL / 16 GB RAM / 512 GB SSD PCIe",3499.0,19,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,15.6,"Brak",156
+"Apple MacBook Air 13 M1 (MGN93ZE/A)",4754.99,11,8,"Apple M1",0,"Apple M1",3.2,8,8,13.3,"macOS",157
+"Dell Vostro 3590 16 GB RAM/ 256 GB M.2 PCIe/ Windows 10 Pro",3399.0,22,16,"Intel UHD Graphics 620",0,"Intel Core i5-10210U",1.6,4,8,15.6,"Windows 10 Pro",158
+"Lenovo ThinkPad E15 G2 (20TD00GSPB)",4315.6,4,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",159
+"MSI Katana GF76 11UE-245XPL / 16 GB RAM / 1 TB + 512 GB SSD PCIe",5749.0,10,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-11800H",2.3,8,16,17.3,"Brak",160
+"Lenovo V130-15IKB (81HN00PMPB)",3223.33,1,8,"Intel UHD Graphics 620",0,"Intel Core i5-8250U",1.6,4,8,15.6,"Windows 10 Pro",161
+"MSI Katana GF76 11UC-468XPL / 16 GB RAM / 512 GB SSD PCIe",4149.0,17,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,17.3,"Brak",162
+"Lenovo Legion 5 15ARH05 (82B500AHPB)",3813.23,23,8,"NVIDIA GeForce GTX 1650",4,"AMD Ryzen 5 4600H",3.0,6,12,15.6,"Brak",163
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe",2299.0,3,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",164
+"HP 255 G8 (5N3L2EA)",2399.0,33,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",165
+"HP 250 G7 (14Z89EA)",2749.0,4,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Pro",166
+"Lenovo V17-IIL (82GX008BPB)",3690.99,2,8,"NVIDIA GeForce MX330",2,"Intel Core i5-1035G1",1.0,4,8,17.3,"Windows 10 Pro",167
+"HP Envy x360 13-ar0010nw (8BH00EA)",3899.0,2,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,13.3,"Windows 10 Home",168
+"MSI GF63 Thin 11UC-214XPL / 16 GB RAM / 512 GB SSD PCIe",4299.0,2,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Brak",169
+"MSI GF63 Thin 11UC-214XPL / 16 GB RAM / 512 GB SSD PCIe / 1 TB SSD",4599.0,1,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Brak",170
+"Dell Vostro 3510 (N8012VN3510EMEA01_2201) / 32 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",5049.0,1,32,"Intel Iris Xe",0,"Intel Core i7-1165G7",2.8,4,8,15.6,"Windows 10 Pro",171
+"MSI Katana GF76 11UD-466XPL",5199.0,49,16,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,17.3,"Brak",172
+"Lenovo Yoga 7 16IAH7 (82UF003JPB)",5845.2,5,16,"Intel Arc A370M",4,"Intel Core i5-12500H",2.5,12,16,16.0,"Windows 11 Home",173
+"Lenovo IdeaPad 3 15ITL6 (82H801QQPB)",1826.99,13,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",174
+"Lenovo V15 G2 ALC Ryzen 5 5500U / 8 GB / 512 GB / W11 (82KD00G0PB) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2249.0,41,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",175
+"HP 255 G7 (15A08EA) 8 GB RAM/ 512 GB M.2 PCIe/",2449.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Brak",176
+"HP Probook 470 G9 (6S7D3EA)",3280.48,1,8,"NVIDIA GeForce MX550",2,"Intel Core i5-1235U",0.9,10,12,17.3,"Brak",177
+"Lenovo IdeaPad Gaming 3 15IHU6 (82K101FAPB) / 16 GB RAM / 512 GB SSD PCIe",3299.0,15,16,"NVIDIA GeForce GTX 1650",4,"Intel Core i5-11320H",3.2,4,8,15.6,"Brak",178
+"Lenovo G50-80 (80E5034BPB)",3259.75,0,4,"AMD Radeon R5 M330",2,"Intel Core i5-5200U",2.2,2,4,15.6,"Windows 10 Home",179
+"HP ProBook 455 G8 (4K7C4EA) / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",3499.0,22,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5600U",2.3,6,12,15.6,"Windows 10 Pro",180
+"Lenovo IdeaPad Gaming 3 15IHU6 i7-11370H / 16 GB / 512 GB / RTX 3050 Ti / 120 Hz (82K100GGPB)",4689.4,32,16,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i7-11370H",3.3,4,8,15.6,"Brak",181
+"Dell Vostro 5401 (N5111VN5401EMEA01_2101)",4490.0,41,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,14.0,"Windows 10 Pro",182
+"Toshiba Satellite Pro (C50-E-11L)",2275.0,36,8,"Intel UHD Graphics G1",0,"Intel Core i3-7020U",2.3,2,4,15.6,"Windows 10 Pro",183
+"Umax VisionBook 14Wr Plus (UMM230142)",686.32,2,4,"Intel UHD Graphics 600",0,"Intel Celeron N4120",1.1,4,4,14.1,"Windows 10 Pro",184
+"Umax VisionBook 10Wr Tab (UMM220V18)",906.39,4,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,10.1,"Windows 10 Pro",185
+"Acer Aspire 3 A315-34 (NX.HXDEP.005)",1380.0,4,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Windows 11 S",186
+"Lenovo Ideapad Slim 1-14AST-05 (2_336098)",1214.92,17,4,"AMD Radeon R4",0,"AMD A4-9120e",1.5,2,2,14.0,"Windows 10 S",187
+"HP 15s-eq1000ua (28Z66EA)",1699.0,3,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 3250U",2.6,2,4,15.6,"Windows 10 Home",188
+"HP 14-dk0013nw (1F7L9EA)",1781.0,36,4,"AMD Radeon R4",0,"AMD A6-9225",2.6,2,2,14.0,"Windows 10 S",189
+"HP 255 G7 (1Q3J6ESR)",1899.0,1,4,"AMD Radeon RX Vega 2",0,"AMD Athlon Silver 3050U",2.3,2,2,15.6,"Windows 10 Home",190
+"HP Pavilion x360 14-dy0115nd (3Y6H5EA)",1899.0,2,4,"Intel UHD Graphics Xe G4",0,"Intel Pentium Gold 7505",2.0,2,4,14.0,"Windows 11 Home",191
+"Asus VivoBook 15 D515 Ryzen 3 3250U / 8 GB / 256 GB (D515DA-EJ1397)",1940.98,8,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,15.6,"Brak",192
+"HP 250 G9 (6F200EA) / 16 GB RAM / 256 GB SSD PCIe / Windows 11 Home",1999.0,4,16,"Intel UHD Graphics",0,"Intel Core i3-1215U",0.9,6,8,15.6,"Windows 11 Home",193
+"Asus Vivobook 14X X1403 i5-12500H / 8 GB / 512 GB (X1403ZA-LY220A)",1793.77,43,8,"Intel Iris Xe",0,"Intel Core i5-12500H",1.8,12,16,14.0,"Brak",194
+"HP 15-db1037nw (19M13EA#AKD)",2099.0,1,4,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",195
+"HP 250 G9 (6F200EA) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2099.0,13,16,"Intel UHD Graphics",0,"Intel Core i3-1215U",0.9,6,8,15.6,"Windows 11 Home",196
+"HP 15s-eq2344nw (712D3EA) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2099.0,9,16,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",197
+"HP 15s-eq2105nw (477U8EA)",2129.0,1,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Brak",198
+"Asus VivoBook 15 R564JA (R564JA-UH31T)",1999.0,2,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",199
+"Asus VivoBook 15 X515EA (X515EA-BQ1445)",2195.4,16,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",200
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD",2099.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",201
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 8 GB RAM / 256 GB SSD PCIe / Windows 10 S",2349.0,3,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",202
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 12 GB RAM / 1 TB SSD PCIe / Windows 10 Home",2399.0,1,12,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",203
+"Asus VivoBook 17 M712 (M712DA-WH34)",2399.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,17.3,"Windows 10 Home",204
+"Acer Aspire 3 (NX.HT8EP.002)",2399.0,1,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",205
+"HP 255 G7 (15A08EA) 12 GB RAM/ 256 GB M.2 PCIe/",2439.0,1,12,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Brak",206
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / 512 GB SSD",2449.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",207
+"Lenovo IdeaPad 3 17ITL6 (82H900D4PB)",2299.0,2,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 10 Home",208
+"HP 15-db1020nw (9CR75EA)",2499.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Home",209
+"Acer Aspire 3 (NX.HT8EP.002) / 8 GB RAM / 256 GB SSD PCIe / Windows 10 S",2499.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",210
+"HP 255 G7 (15A08EA)",2501.5,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Brak",211
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / 1 TB SSD",2599.0,3,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",212
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 1 TB SSD PCIe",2649.0,1,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",213
+"HP 250 G7 (14Z75EA)",2687.61,3,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",214
+"HP 14s-dq1005nw (8TY54EA)",2799.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,14.0,"Windows 10 Home",215
+"HP 15s-fq1103nw (13G46EA)",2899.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",216
+"Lenovo IdeaPad 3 17ITL (82H900GKPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2899.0,9,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 11 Home",217
+"HP 255 G7 (15A08EA) 8 GB RAM/ 512 GB M.2 PCIe/ Windows 10 Home",2969.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",218
+"Lenovo IdeaPad 3 17ITL (82H900GKPB) / 12 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 Home",2999.0,1,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 11 Home",219
+"HP Envy 13-ah1013nw (6AT21EA)",3099.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i5-8265U",1.6,4,8,13.3,"Windows 10 Home",220
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 10 Home",3099.0,1,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",221
+"HP 255 G7 (15A08EA) 12 GB RAM/ 256 GB M.2 PCIe/ Windows 10 Pro",3149.0,1,12,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Pro",222
+"Lenovo IdeaPad Gaming 3 15IHU6 (82K100HEPB) / 16 GB RAM / 512 GB SSD PCIe",3199.0,3,16,"NVIDIA GeForce GTX 1650",4,"Intel Core i5-11300H",3.1,4,8,15.6,"Brak",223
+"HP Pavilion 15-eh1204nw (4H346EA)",3199.0,1,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",224
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Home",3249.0,2,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",225
+"HP 250 G9 (6F2C7EA) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",3299.0,12,16,"Intel Iris Xe",0,"Intel Core i5-1245U",0.9,10,12,15.6,"Windows 11 Pro",226
+"Lenovo IdeaPad Gaming 3 15ACH6 (82K200QYPB) / 16 GB RAM / 1 TB SSD PCIe",3349.0,6,16,"NVIDIA GeForce GTX 1650",4,"AMD Ryzen 5 5600H",3.3,6,12,15.6,"Brak",227
+"HP Pavilion 15-cs3008nw (8TZ76EA)",3399.0,1,16,"NVIDIA GeForce MX250",2,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",228
+"Lenovo IdeaPad Gaming 3 15ACH6 (82K200QYPB) / 32 GB RAM / 512 GB SSD PCIe",3399.0,4,32,"NVIDIA GeForce GTX 1650",4,"AMD Ryzen 5 5600H",3.3,6,12,15.6,"Brak",229
+"HP Pavilion 15-cs3025nw (9CS11EA)",3499.0,12,8,"NVIDIA GeForce MX250",2,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",230
+"HP Pavilion 13-an0002nw (5MM07EA)",3499.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i5-8265U",1.6,4,8,13.3,"Windows 10 Home",231
+"HP 250 G7 (14Z75EA) / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Home",3499.0,1,16,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",232
+"Asus VivoBook 15 X515EA (X515EA-BQ1226W) / 24 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 11 Home",3499.0,1,24,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",233
+"Lenovo IdeaPad 5 Pro 14ITL6 i5-1135G7 / 16 GB / 512 GB / W11 / MX450 (82L300E4PB)",3556.0,4,16,"NVIDIA GeForce MX450",2,"Intel Core i5-1135G7",2.4,4,8,14.0,"Windows 11 Home",234
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 10 Pro",3599.0,1,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Pro",235
+"MSI GF63 Thin 11UC-215XPL / 16 GB RAM / 1 TB SSD PCIe",3649.0,12,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,15.6,"Brak",236
+"Asus ExpertBook B1 B1500 (B1500CEAE-BQ1697R)",3525.59,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Pro",237
+"HP Pavilion 15-cs3020nw (8XL06EA)",3699.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",238
+"HP Pavilion 15-eg0009nw (2M0R7EA)",3699.0,2,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",239
+"HP ProBook 455 G8 (4K7C4EA) / 32 GB RAM / 1 TB SSD PCIe / Windows 10 Pro",3699.0,8,32,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5600U",2.3,6,12,15.6,"Windows 10 Pro",240
+"HP Pavilion 15-cs3032nw (1F7H9EA)",3799.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",241
+"Lenovo Legion 5 17ACH6 (82K00045US)",3799.0,7,8,"NVIDIA GeForce GTX 1650",4,"AMD Ryzen 5 5600H",3.3,6,12,17.3,"Windows 11 Home",242
+"Lenovo ThinkPad E15 G2 (20TD00GNPB)",3917.99,5,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",243
+"HP ProBook 450 G8 (43A20EA)",3999.0,2,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Pro",244
+"Dell Vostro 3525 Ryzen 5 5625U / 16 GB / 512 GB / W11 Pro (N1301VNB3525EMEA01_PS)",4064.99,10,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 11 Pro",245
+"Lenovo Legion 5 15ITH6 (82JK005BPB)",4095.0,34,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,15.6,"Brak",246
+"HP Pavilion 15-eh1134nw (4H3T7EA)",4099.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 7 5700U",1.8,8,16,15.6,"Windows 10 Home",247
+"Lenovo IdeaPad Gaming 3 15ACH6 (82K200QYPB) / 32 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",4099.0,1,32,"NVIDIA GeForce GTX 1650",4,"AMD Ryzen 5 5600H",3.3,6,12,15.6,"Windows 10 Pro",248
+"MSI Katana GF76 11UC-468XPL / 16 GB RAM / 1 TB SSD PCIe",4299.0,16,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,17.3,"Brak",249
+"MSI GF63 Thin 11UD-213XPL / 16 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Home",4399.0,1,16,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i5-11400H",2.2,6,12,15.6,"Windows 10 Home",250
+"Acer Nitro 5 AN515-56 (NH.QAMEP.00N) / 16 GB RAM / 1 TB SSD PCIe / Windows 10 Home",3336.75,3,16,"NVIDIA GeForce GTX 1650",4,"Intel Core i5-11300H",2.6,4,8,15.6,"Windows 10 Home",251
+"HP Pavilion Gaming 15-dk1056nw (364D8EA)",4499.0,1,8,"NVIDIA GeForce RTX 2060 Max-Q",6,"Intel Core i5-10300H",2.5,4,8,15.6,"Windows 10 Home",252
+"Lenovo ThinkPad E14 Gen 3 (20Y700AJPB)",4529.74,2,16,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,14.0,"Windows 11 Pro",253
+"Lenovo ThinkPad E14 G4 i5-1235U / 8GB / 256 GB / W11 Pro (21E300ESPB)",4635.8,5,8,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,14.0,"Windows 11 Pro",254
+"Asus ZenBook 14X i7-1165G7 / 16 GB / 512 GB / W11 / 90 Hz (UX5401EA-L7099W)",4910.6,5,16,"Intel Iris Xe",0,"Intel Core i7-1165G7",2.8,4,8,14.0,"Windows 11 Home",255
+"HP Pavilion Gaming 17−cd1007nw (24C82EA)",4699.0,10,8,"NVIDIA GeForce GTX 1650 Ti",4,"Intel Core i5-10300H",2.5,4,8,17.3,"Brak",256
+"Dell Vostro 5510 (N7500CVN5510EMEA01_2205)",4758.02,1,8,"Intel Iris Xe",0,"Intel Core i5-11320H",3.2,4,8,15.6,"Windows 10 Pro",257
+"MSI Katana GF76 11UC-468XPL / 16 GB RAM / 1 TB SSD PCIe / Windows 10 Home",4799.0,6,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,17.3,"Windows 10 Home",258
+"MSI Katana GF76 11UC-467XPL / 16 GB RAM / 512 GB SSD PCIe",4799.0,1,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,17.3,"Brak",259
+"HP ENVY 14-eb0212nw (4P499EA)",4799.0,2,16,"Intel Iris Xe",0,"Intel Core i7-11370H",3.3,4,8,14.0,"Windows 11 Home",260
+"Asus Expertbook B5 B5402C (B5402CEA-KC0187X)",4805.19,2,8,"Intel Iris Xe",0,"Intel Core i5-1155G7",2.5,4,8,14.0,"Windows 11 Pro",261
+"MSI Katana GF76 11UC-468XPL / 32 GB RAM / 1 TB SSD PCIe / Windows 10 Home",4949.0,4,32,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,17.3,"Windows 10 Home",262
+"MSI GF63 Thin 11UC-214XPL / 16 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Home",4949.0,2,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Windows 10 Home",263
+"MSI GF63 Thin 11UC-214XPL / 32 GB RAM / 512 GB SSD PCIe / 2 TB SSD",4999.0,2,32,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Brak",264
+"HP EliteBook 840 G8 (358R4EA)",5060.99,3,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,14.0,"Windows 10 Pro",265
+"Dell Vostro 3510 (N8012VN3510EMEA01_2201) / 16 GB RAM / 1 TB SSD PCIe / Windows 10 Pro",5049.0,1,16,"Intel Iris Xe",0,"Intel Core i7-1165G7",2.8,4,8,15.6,"Windows 10 Pro",266
+"Dell Vostro 3510 (N8012VN3510EMEA01_2201) / 16 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Pro",5049.0,1,16,"Intel Iris Xe",0,"Intel Core i7-1165G7",2.8,4,8,15.6,"Windows 10 Pro",267
+"MSI Katana GF76 11UC-468XPL / 32 GB RAM / 1 TB SSD PCIe / Windows 10 Pro",5149.0,1,32,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,17.3,"Windows 10 Pro",268
+"MSI GF63 Thin 11UC-214XPL / 32 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Pro",5299.0,1,32,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Windows 10 Pro",269
+"MSI GF63 Thin 11UC-214XPL / 32 GB RAM / 1 TB SSD PCIe / 1 TB SSD / Windows 10 Home",5399.0,1,32,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Windows 10 Home",270
+"MSI GF63 Thin 11UC-214XPL / 64 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",5599.0,1,64,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Windows 10 Pro",271
+"Lenovo ThinkBook 16 G4+ i7-1255U / 16 GB / 512 GB / W11 Pro (21CY003MPB)",5728.63,1,16,"Intel Iris Xe",0,"Intel Core i7-1255U",1.2,10,12,16.0,"Windows 11 Pro",272
+"MSI Katana GF76 11UE-245XPL / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Home",6049.0,3,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-11800H",2.3,8,16,17.3,"Windows 10 Home",273
+"Apple MacBook Air 13 M2 (MLXW3ZE/A)",6035.0,19,8,"Apple M2 (8 rdzeni)",0,"Apple M2",2.0,8,8,13.6,"macOS",274
+"MSI Katana GF76 11UD-466XPL / 32 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",6149.0,1,32,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,17.3,"Windows 10 Pro",275
+"MSI Katana GF76 11UE-245XPL / 64 GB RAM / 2x 1TB SSD PCIe",6449.0,1,64,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-11800H",2.3,8,16,17.3,"Brak",276
+"MSI Katana GF76 11UD-466XPL / 32 GB RAM / 2 TB SSD PCIe / Windows 10 Pro",6499.0,1,32,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,17.3,"Windows 10 Pro",277
+"MSI GF63 Thin 11UC-214XPL / 64 GB RAM / 2 TB SSD PCIe / 2 TB SSD / Windows 10 Pro",6499.0,2,64,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Windows 10 Pro",278
+"MSI Katana GF76 11UE-245XPL / 32 GB RAM / 1 TB SSD PCIe / Windows 10 Pro",6499.0,4,32,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-11800H",2.3,8,16,17.3,"Windows 10 Pro",279
+"MSI Katana GF76 11UE-245XPL / 64 GB RAM / 1 TB + 512 GB SSD PCIe / Windows 10 Home",6849.0,1,64,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-11800H",2.3,8,16,17.3,"Windows 10 Home",280
+"Microsoft Surface Pro 8 (8PR-00035)",6868.4,3,8,"Intel Iris Xe",0,"Intel Core i5-1145G7",2.6,4,8,13.0,"Windows 10 Pro",281
+"Apple MacBook Air 13 M2 / 8 GB / 256 GB / macOS (MLXW3ZE/A/US)",5975.0,2,8,"Apple M2 (8 rdzeni)",0,"Apple M2",2.4,8,8,13.6,"macOS",282
+"MSI Katana GF76 11UE-245XPL / 64 GB RAM / 2 TB SSD PCIe / Windows 10 Home",6999.0,2,64,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-11800H",2.3,8,16,17.3,"Windows 10 Home",283
+"LG Gram 2w1 16 2022 (16T90Q-G.AA78Y)",7199.0,5,16,"Intel Iris Xe",0,"Intel Core i7-1260P",1.5,12,16,16.0,"Windows 11 Home",284
+"HP ZBook Firefly16 G9 i7-1255U / 16 GB / 512 GB / W11 Pro / Quadro T500 (69Q79EA)",9285.67,1,16,"NVIDIA Quadro T550",4,"Intel Core i7-1255U",1.2,10,12,16.0,"Windows 11 Pro",285
+"Apple MacBook Pro 16 (MK183ZE/A/US)",12785.99,1,16,"Apple M1",0,"Apple M1 Pro",3.2,10,10,16.2,"macOS",286
+"Asus ProArt Studiobook 16 OLED (H7600HM-L2033X)",14060.0,2,64,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i9-11900H",2.5,8,16,16.0,"Windows 11 Pro",287
+"Apple MacBook Pro 16 (MK183ZE/A/R1)",17270.99,2,32,"Apple M1",0,"Apple M1 Pro",3.2,10,10,16.2,"macOS",288
+"Kruger&Matz Explore 1406 (KM1406)",991.7,3,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,14.1,"Windows 10 Pro",289
+"HP 17-cn0009nw (4L236EA)",1899.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,17.3,"Windows 11 Home",290
+"HP 17-cn0039nw (4L239EA) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2899.0,10,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 11 Home",291
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2899.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",292
+"Asus VivoBook 15 X515EA (X515EA-BQ1226W) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",3149.0,2,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",293
+"HP Pavilion 15-cs3003nw (8UF09EA)",3299.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",294
+"MSI GF63 Thin 11UD-213XPL / 16 GB RAM / 512 GB SSD PCIe",3699.0,14,16,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i5-11400H",2.2,6,12,15.6,"Brak",295
+"Asus TUF Gaming F15 FX506LH (FX506LH-HN042)",3999.0,1,16,"NVIDIA GeForce GTX 1650",4,"Intel Core i5-10300H",2.5,4,8,15.6,"Brak",296
+"MSI GF63 Thin 11UD-213XPL / 32 GB RAM / 512 GB SSD PCIe / 512 GB SSD",3999.0,3,32,"NVIDIA GeForce RTX 3050 Ti Laptop GPU",4,"Intel Core i5-11400H",2.2,6,12,15.6,"Brak",297
+"HP Pavilion Gaming 16-a0023nw (2C5W3EAR#AKD)",4299.0,1,16,"NVIDIA GeForce GTX 1650 Ti",4,"Intel Core i5-10300H",2.5,4,8,16.1,"Brak",298
+"MSI Katana GF76 11UC-468XPL / 16 GB RAM / 2 TB SSD PCIe",4499.0,3,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,17.3,"Brak",299
+"Acer Nitro 5 i5-11400H / 16 GB / 512 GB / W11 / RTX 3060 / 144 Hz (NH.QEWEP.004)",4676.99,6,16,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i5-11400H",2.7,6,12,15.6,"Windows 11 Home",300
+"MSI Katana GF76 11UC-467XPL / 16 GB RAM / 1 TB SSD PCIe",4949.0,2,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,17.3,"Brak",301
+"MSI Katana GF76 11UC-468XPL / 32 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",4999.0,1,32,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i5-11400H",2.7,6,12,17.3,"Windows 10 Pro",302
+"Dell Vostro 5625 (N1005VNB5625EMEA01) / 32 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",5499.0,3,32,"AMD Radeon RX Vega 8",0,"AMD Ryzen 7 5825U",2.0,8,16,16.0,"Windows 11 Pro",303
+"MSI Katana GF76 11UE-245XPL / 32 GB RAM / 2x 2TB SSD PCIe / Windows 10 Home",6949.0,1,32,"NVIDIA GeForce RTX 3060 Laptop GPU",6,"Intel Core i7-11800H",2.3,8,16,17.3,"Windows 10 Home",304
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2849.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",305
+"MSI GF63 Thin 11UC-214XPL / 16 GB RAM / 1 TB SSD PCIe",4399.0,1,16,"NVIDIA GeForce RTX 3050 Laptop GPU",4,"Intel Core i7-11800H",2.3,8,16,15.6,"Brak",306
+"HP 470 G8 (3S8S1EAR)",4999.0,3,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 10 Pro",307
+"HP Pavilion 14-dv0014nx (2N7Q2EAR)",2599.0,3,8,"NVIDIA GeForce MX350",2,"Intel Core i5-1135G7",2.4,4,8,14.0,"Windows 10 Home",308
+"Lenovo IdeaPad 100-15IBD (80QQ01B3PB)",2992.0,1,4,"NVIDIA GeForce 920MX",2,"Intel Core i5-5200U",2.2,2,4,15.6,"Windows 10 Home",309
+"HP Pavilion 14-dv0007nx (2N7P5EAR)",3398.0,1,16,"NVIDIA GeForce MX450",2,"Intel Core i7-1165G7",2.8,4,8,14.0,"Windows 10 Home",310
+"Umax VisionBook 13Wr (UMM230132)",649.24,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,13.3,"Windows 10 Pro",311
+"Umax VisionBook 14Wr (UMM230141)",649.24,6,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.1,"Windows 10 Pro",312
+"Umax VisionBook 14Wr (UMM230143)",650.81,4,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.1,"Windows 10 Pro",313
+"Umax VisionBook 12WRx (UMM230223)",741.95,2,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,11.6,"Windows 11 Pro",314
+"Umax VisionBook 12WRx (UMM230220)",741.95,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,11.6,"Windows 11 Pro",315
+"Umax VisionBook 12WRx (UMM230222)",741.95,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,11.6,"Windows 11 Pro",316
+"Umax VisionBook 12WRx (UMM230221)",741.95,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,11.6,"Windows 11 Pro",317
+"Techbite Arc 11.6 Celeron N4000 / 4 GB / 128 GB / W10 Pro",897.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,11.6,"Windows 10 Pro",318
+"Umax VisionBook 14WRx (UMM230240)",927.39,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.1,"Windows 11 Pro",319
+"Umax VisionBook 14WRx (UMM230241)",927.39,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.1,"Windows 11 Pro",320
+"Umax VisionBook N14G Plus Hu (UMM230148)",927.39,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4100",1.1,4,4,14.1,"Windows 10 Pro",321
+"Umax VisionBook 15Wr Plus (UMM230150)",927.39,4,4,"Intel UHD Graphics 600",0,"Intel Celeron N4120",1.1,4,4,15.6,"Windows 10 Pro",322
+"Umax VisionBook N15R (UMM230151)",964.47,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Windows 11 Pro",323
+"Lenovo 300e Chromebook (81QC0004MH)",999.0,1,4,"Imagination PowerVR GX6250",0,"Mediatek MT8173C",2.4,4,4,11.6,"Chrome OS",324
+"Gateway/Acer GWTN116 (GWTN116-3BK)",999.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,11.6,"Windows 10 Home",325
+"Gateway/Acer Gateway GWTN116 (GWTN116-3RD)",999.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,11.6,"Windows 10 Home",326
+"Asus Chromebook CX1 (CB1101CMA-GJ0021)",1008.59,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4120",1.1,4,4,11.6,"Chrome OS",327
+"Umax VisionBook 14Wj (UMM230149)",1020.11,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4500",1.1,2,2,14.1,"Windows 11 Pro",328
+"Umax VisionBook N15G Plus Hu (UMM230154)",1020.11,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4100",1.1,4,4,15.6,"Windows 10 Pro",329
+"Umax VisionBook N15R Pro (UMM230156)",1020.11,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4120",1.1,4,4,15.6,"Windows 10 Pro",330
+"Umax VisionBook 14WQ LTE (UMM230242)",1112.87,1,4,"Qualcomm Adreno 618",0,"Qualcomm Snapdragon 7c",1.8,8,8,14.1,"Windows 11 Pro",331
+"Umax VisionBook 15Wj (UMM230158)",1112.87,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4500",1.1,2,2,15.6,"Windows 11 Pro",332
+"Umax VisionBook 12Wr Tab (UMM220T22)",1182.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,11.6,"Windows 10 Pro",333
+"Kruger&Matz Ultrabook Explore 1405.2 Celeron N4020 / 4 GB / 128 GB / W11 (KM1405.2-G)",1166.55,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.1,"Windows 11 Home",334
+"Acer Chromebook CP311 (NX.ATYEL.002)",1196.06,0,8,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,11.6,"Chrome OS",335
+"HP Chromebook 11A G6 (6HL33EAR)",1199.0,0,4,"AMD Radeon R2",0,"AMD A4-9120",2.2,2,2,11.6,"Chrome OS",336
+"HP Chromebook 14a-na0020nr (9PG29UA)",1199.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,14.0,"Chrome OS",337
+"Lenovo Chromebook S330 (81JW0008MH)",1201.9,1,4,"Imagination PowerVR GX6250",0,"Mediatek MT8173C",2.1,4,4,14.0,"Chrome OS",338
+"Umax VisionBook 14Wg Flex (UMM220V14)",1205.59,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4100",1.1,4,4,14.1,"Windows 10 Pro",339
+"Asus L406NA (L406NA-WH02DX)",1222.38,0,4,"Intel HD Graphics 500",0,"Intel Celeron N3350",1.1,2,2,14.0,"Windows 10 S",340
+"Gateway/Acer GWTN156 (GWTN156-11BK)",1249.0,2,4,"Intel UHD Graphics 605",0,"Intel Pentium N5030",1.1,4,4,15.6,"Windows 10 Home",341
+"Asus X515MA (X515MA-BR037)",1273.36,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Brak",342
+"Lenovo IdeaPad 3 15IGL05 Celeron N4020 / 4 GB / 256 GB (81WQ0041RM)",1275.8,2,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Brak",343
+"Asus E410MA-EK1990WS Celeron N4020 / 4 GB / 128 GB / W11 S (90NB0Q12-M00PY0) +Office Personal 1 rok",1279.0,2,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.0,"Windows 11 S",344
+"Umax VisionBook 13Wr Flex (UMM220V30)",1298.31,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,13.3,"Windows 10 Pro",345
+"HP Chromebook 14a-na0007na (2R171EAR)",1299.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,14.0,"Chrome OS",346
+"Acer Extensa EX215-32 (NX.EGNEP.005)",1299.97,1,4,"Intel UHD Graphics 620",0,"Intel Celeron N5100",1.1,4,4,15.6,"Brak",347
+"Asus ChromeBook CX1 Celeron N3350 / 8 GB / 64 GB / ChromeOS (CX1500CNA-BR0092)",1311.1,1,8,"Intel HD Graphics 500",0,"Intel Celeron N3350",1.1,2,2,15.6,"Chrome OS",348
+"Asus VivoBook 14 X415MA (X415MA-EK595WS)",1339.0,8,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.0,"Windows 11 S",349
+"Umax VisionBook 14Wr Flex (UMM220V40)",1391.02,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4120",1.1,4,4,14.1,"Windows 10 Pro",350
+"HP 14s-fq0005ne (HP 14s-fq0005ne)",1398.0,0,4,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,14.0,"Windows 10 Home",351
+"Asus L410M (L410MA-EK489TS)",1399.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,4,14.0,"Windows 10 S",352
+"HP Stream 11-ak0012dx (16V16UA)",1399.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,11.6,"Windows 10 S",353
+"Asus E410MA (E410MA-EB268)",1399.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.0,"Brak",354
+"Asus E410MA (E410MA-EK016)",1399.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.0,"Brak",355
+"Asus E410MA (E410MA-EK1323WS)",1399.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.0,"Windows 11 S",356
+"Asus E410MA (E410MA-EK1828W)",1372.79,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.0,"Windows 11 Home",357
+"Acer Notebook Aspire 3 A315-34-C6K4 WIN11SH/CELERON N4020/8GB/128SSD/UMA/15.6",1450.0,2,8,"Intel HD 5500",0,"Intel Celeron N4020",1.1,2,2,15.6,"Windows 11 Home",358
+"Asus ExpertBook B1 B1400 Pentium Gold 7505 / 4 GB / 256 GB / W11 (B1400CEAE-EK6564WS)",1481.2,3,4,"Intel UHD Graphics Xe G4",0,"Intel Pentium Gold 7505",2.0,2,4,14.0,"Windows 11 Pro",359
+"Umax VisionBook 15WU-i3 (UMM230155)",1483.74,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-10110U",2.1,2,4,15.6,"Windows 10 S",360
+"HP Chromebook x360 11-ae100nd (5AT78EAR)",1499.0,0,4,"Intel HD Graphics 500",0,"Intel Celeron N3350",1.1,2,2,11.6,"Chrome OS",361
+"Lenovo Ideapad S145-15AST (81N30038FR)",1499.0,1,4,"AMD Radeon R5",0,"AMD A9-9425",3.1,2,2,15.6,"Windows 10 Home",362
+"Acer Gateway GWTN156-11BK",1499.0,0,4,"Intel UHD Graphics 605",0,"Intel Pentium N5030",1.1,4,4,15.6,"Windows 10 S",363
+"HP 14-dk0030ca (6GH49UA)",1499.0,0,4,"AMD Radeon R3",0,"AMD A4-9125",2.3,2,2,14.0,"Windows 10 Home",364
+"Lenovo IdeaPad 1 14ADA05 (82GW0042PB)",1517.99,1,4,"AMD Radeon RX Vega 3",0,"AMD 3020e",1.2,2,2,14.0,"Windows 10 S",365
+"Asus Vivobook E410MA (E410MA-EK316T)",1534.0,1,4,"Intel UHD Graphics 605",0,"Intel Pentium N5030",1.1,4,4,14.0,"Windows 10 S",366
+"Acer Aspire 1 A114-32 (NX.GVZEP.03B)",1554.0,4,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.0,"Windows 10 S",367
+"Lenovo V15-IGL",1479.0,7,8,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Windows 10 Home",368
+"Asus E410MA (E410MA-EK954TS)",1583.01,1,4,"Intel UHD Graphics 605",0,"Intel Pentium N5030",1.1,4,4,14.0,"Windows 10 Home",369
+"HP Chromebook x360 12b-ca0010nd (8AS81EAR)",1599.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,12.0,"Chrome OS",370
+"HP 14-dk0042nw (1N8D5EA)",1599.0,1,4,"AMD Radeon R4",0,"AMD A6-9225",2.6,2,2,14.0,"Windows 10 Home",371
+"Asus VivoBook 15 X509 (X509FA-EJ251)",1599.0,1,4,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,15.6,"Brak",372
+"Asus VivoBook 15 X509 (X509FA-EJ076)",1599.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,15.6,"Brak",373
+"Lenovo Chromebook S345-14AST (81WX0009MH)",1599.0,0,4,"AMD Radeon R5",0,"AMD A6-9220C",1.8,2,2,14.0,"Chrome OS",374
+"Lenovo IdeaPad 3 15IIL05 REPACK (81WE0016US)",1599.0,1,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",375
+"Asus VivoBook X505BA (X505BA-BR045T)",1599.0,2,4,"AMD Radeon R5",0,"AMD A9-9420",3.0,2,2,15.6,"Windows 10 Home",376
+"Asus ASUS VivoBook 15 X509MA-BR239T 90NB0Q31-M04890",1599.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Windows 10 Home",377
+"HP 15-dw3017nt (2N2R4EA)",1599.0,1,4,"Intel Iris Xe",0,"Intel Core i3-1115G4",1.7,2,4,15.6,"Brak",378
+"HP Stream 14-cb172wm (9VK98UAR)",1599.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,14.0,"Windows 10 Home",379
+"Asus Vivobook E410MA (E410MA-EK316T)",1534.0,1,4,"Intel UHD Graphics 605",0,"Intel Pentium N5030",1.1,4,4,14.0,"Windows 10 S",380
+"Acer Aspire 1 A114-32 (NX.GVZEP.03B)",1554.0,4,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.0,"Windows 10 S",381
+"Lenovo V15-IGL",1479.0,7,8,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Windows 10 Home",382
+"Asus E410MA (E410MA-EK954TS)",1583.01,1,4,"Intel UHD Graphics 605",0,"Intel Pentium N5030",1.1,4,4,14.0,"Windows 10 Home",383
+"HP Chromebook x360 12b-ca0010nd (8AS81EAR)",1599.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,12.0,"Chrome OS",384
+"HP 14-dk0042nw (1N8D5EA)",1599.0,1,4,"AMD Radeon R4",0,"AMD A6-9225",2.6,2,2,14.0,"Windows 10 Home",385
+"Asus VivoBook 15 X509 (X509FA-EJ251)",1599.0,1,4,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,15.6,"Brak",386
+"Asus VivoBook 15 X509 (X509FA-EJ076)",1599.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,15.6,"Brak",387
+"Lenovo Chromebook S345-14AST (81WX0009MH)",1599.0,0,4,"AMD Radeon R5",0,"AMD A6-9220C",1.8,2,2,14.0,"Chrome OS",388
+"Lenovo IdeaPad 3 15IIL05 REPACK (81WE0016US)",1599.0,1,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",389
+"Asus VivoBook X505BA (X505BA-BR045T)",1599.0,2,4,"AMD Radeon R5",0,"AMD A9-9420",3.0,2,2,15.6,"Windows 10 Home",390
+"Asus ASUS VivoBook 15 X509MA-BR239T 90NB0Q31-M04890",1599.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Windows 10 Home",391
+"HP 15-dw3017nt (2N2R4EA)",1599.0,1,4,"Intel Iris Xe",0,"Intel Core i3-1115G4",1.7,2,4,15.6,"Brak",392
+"HP Stream 14-cb172wm (9VK98UAR)",1599.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,14.0,"Windows 10 Home",393
+"Maxcom mBook (MBOOK14DARKGRAY)",1624.91,1,8,"Intel UHD Graphics 600",0,"Intel Celeron J4125",2.7,4,4,14.0,"Windows 10 Home",394
+"Maxcom mBook (MBOOK14LIGHTGRAY)",1624.91,2,8,"Intel UHD Graphics 600",0,"Intel Celeron J4125",2.7,4,4,14.0,"Windows 10 Home",395
+"Acer Swift 1 SF114-32 (NX.GXHEP.007)",1637.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,14.0,"Windows 10 Home",396
+"Maxcom mBook 14 Różowy",1649.99,1,8,"Intel UHD Graphics 600",0,"Intel Celeron J4125",2.0,4,4,14.0,"Windows 10 Home",397
+"Lenovo IdeaPad 100-14IBY (80MH0072PB)",1653.0,0,2,"Intel HD Graphics",0,"Intel Celeron N2840",2.16,2,2,14.0,"Brak",398
+"Acer Extensa 15 EX215-54 (NX.EGJEP.001)",1696.59,7,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",399
+"Asus VivoBook 15 X509 (X509JA-EJ005)",1699.0,0,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",400
+"Lenovo Chromebook S345-14AST (81WX000QMH)",1699.0,1,4,"AMD Radeon R5",0,"AMD A6-9220C",1.8,2,2,14.0,"Chrome OS",401
+"HP 15-ef1040nr (1Y8Z2UAR)",1699.0,1,4,"AMD Radeon RX Vega 3",0,"AMD Athlon Gold 3150U",2.4,2,4,15.6,"Windows 10 Home",402
+"HP Chromebook 14A-NA0023 + etui + mysz (1G128UA)",1699.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,14.0,"Chrome OS",403
+"HP 14s-fq0023na (1L6S9EAR)",1699.0,1,4,"AMD Radeon RX Vega 3",0,"AMD 3020e",1.2,2,4,14.0,"Windows 10 S",404
+"EVOO Ultra Thin (EVC156-2BL)",1699.0,1,8,"Intel Iris Plus Graphics 640",0,"Intel Core i7-7560U",2.4,2,4,15.6,"Windows 10 Home",405
+"Asus E410MA (E410MA-C4128W0T)",1699.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,14.0,"Windows 10 Home",406
+"Lenovo IdeaPad 1 14IGL05 (81VU00D6US)",1699.0,2,4,"Intel UHD Graphics 605",0,"Intel Pentium N5030",1.1,4,4,14.0,"Windows 11 S",407
+"Asus L510 (L510MA-WB04)",1699.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Windows 10 S",408
+"Acer Aspire 3 A315-56 (NX.HT8EP.006)",1699.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 11 S",409
+"Asus VivoBook 15 X515EA (X515EA-BQ1221)",1699.0,1,8,"Intel Iris Xe",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",410
+"Asus VivoBook 15 i3-1115G4 / 4 GB / 256 GB (X515EA-EJ911)",1699.0,0,4,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",411
+"Asus ExpertBook P1 P1512 i3-1115G4 / 4 GB / 256 GB / W11 (P1512CEA-EJ0871WS)",1699.0,1,4,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",412
+"HP 255 G9 Ryzen 3 5425U / 8 GB / 256 GB (6S6F7EA)",1713.6,4,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Brak",413
+"HP 250 G9 i3-1215U / 8 GB / 256 GB (6F1Z7EA)",1713.6,4,8,"Intel UHD Graphics",0,"Intel Core i3-1215U",0.9,6,8,15.6,"Brak",414
+"Acer Chromebook 314 (NX.HPYEP.006)",965.99,2,4,"Intel UHD Graphics 605",0,"Intel Pentium N5030",1.1,4,4,14.0,"Chrome OS",415
+"Asus VivoBook 15 X515JA (X515JA-BQ2625W)",1727.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 11 S",416
+"Acer Extensa 15 EX215-52 (NX.EG8EP.00D)",1750.0,1,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",417
+"HP 250 G8 (27K20EA)",1750.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",418
+"HP 255 G8 (5N3L7EA)",1758.4,2,8,"AMD Radeon RX Vega 2",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",419
+"Acer Aspire 3 A315-58 (NX.AT0EP.007)",1699.0,1,4,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",420
+"HP Chromebook x360 12b-ca0001na (9MA94EAR)",1769.0,1,4,"Intel UHD Graphics 605",0,"Intel Pentium N5000",1.1,4,4,12.0,"Chrome OS",421
+"HP 15s-eq2003nw (402R6EA)",1779.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Home",422
+"Lenovo IdeaPad S145-14IWL (81MU007NUSPNT)",1799.0,0,4,"Intel UHD Graphics 610",0,"Intel Pentium 5405U",2.3,2,4,14.0,"Windows 10 Home",423
+"Asus VivoBook 15 X509JA (X509JA-EJ239)",1799.0,1,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",424
+"Asus VivoBook 15 X509 (X509FA-BR058T)",1799.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,15.6,"Windows 10 Home",425
+"Lenovo IdeaPad 3 15IML05 (81WB0002US)",1799.0,1,4,"Intel UHD Graphics 620",0,"Pentium Gold 6405U",2.4,2,4,15.6,"Windows 10 Home",426
+"Asus VivoBook 15 X515JA (X515JA-BR069T)",1799.0,0,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",427
+"HP 250 G8 3C3C3ES 8GB",1799.0,1,8,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Windows 10 Pro",428
+"Asus VivoBook 15 X515EA (X515EA-BQ1115)",1799.0,0,4,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",429
+"Asus BR1100C (BR1100CKA-GJ0538RA)",1799.0,0,8,"Intel UHD Graphics",0,"Intel Pentium Silver N6000",1.1,4,4,11.6,"Windows 10 Pro Edu",430
+"HP Stream 14-cb172wm (9VK98UAR)",1799.0,1,8,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,14.0,"Windows 10 Home",431
+"HP 255 G8 (34P68ES 256)",1799.0,1,4,"AMD Radeon RX Vega 2",0,"AMD Athlon Silver 3050U",2.3,2,2,15.6,"Windows 10 Pro Edu",432
+"Gateway/Acer GWTN156 Ultra Slim (GWTN156-7BK)",1799.0,0,8,"Intel UHD Graphics",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",433
+"Gateway/Acer GWTN156 Ultra Slim (GWTN156-7BL)",1799.0,1,8,"Intel UHD Graphics",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",434
+"HP 250 G8 i3-1005G1 / 8 GB / 512GB / W11 (27K20EA_512)",1799.0,0,8,"Intel UHD Graphics 600",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 11 Home",435
+"Lenovo IdeaPad 3 15ITL05 i3-1115G4 / 4 GB / 128 GB / W10 (81X80055US 8 512)",1799.0,0,8,"Intel UHD Graphics",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 S",436
+"Asus Expertbook L1 L1500CDA (L1500CDA-EJ0733)",1766.83,2,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,15.6,"Brak",437
+"Lenovo IdeaPad 3 14IML05 (81WA00B1US)",1812.0,1,4,"Intel UHD Graphics 610",0,"Pentium Gold 6405U",2.4,2,4,14.0,"Windows 10 Home",438
+"HP 15s-fq2619nw i3-1115G4 / 8 GB / 256 GB / W11 (6Y7X5EA)",1837.79,69,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",439
+"HP 255 G9 Ryzen 3 5425U / 8 GB / 256 GB / W11 (6S6F2EA)",1840.79,9,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Windows 11 Home",440
+"HP 255 G8 Ryzen 3 5300U / 8 GB / 256 GB / W11 (5N3L7EA)",1841.23,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",441
+"HP 255 G8 (34P68ES)",1849.0,0,4,"AMD Radeon Graphics",0,"AMD Athlon Silver 3050U",2.3,2,2,15.6,"Windows 10 Pro Edu",442
+"Acer Extensa 15 EX215-52 8GB (NX.EG8EP.00D)",1850.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",443
+"Asus VivaBook 15 Ryzen 3 3250U / 4 GB / 128 GB / W10 (F512DA-WB31)",1850.0,0,4,"AMD Radeon Graphics",0,"AMD Ryzen 3 3250U",2.6,2,4,15.6,"Windows 10 Home",444
+"Asus VivoBook 15 X515JA i3-1005G1 / 8 GB / 512 GB (X515JA-BQ3018)",1799.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",445
+"Acer Extensa EX215-32 (NX.EG8EP.008)",1861.15,2,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",446
+"Asus VivoBook 14 X420 (X420UA-BV160T)",1899.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-8130U",2.2,2,4,14.0,"Windows 10 S",447
+"HP 15-db1036nt (7DX21EAR)",1899.0,0,4,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",448
+"HP 15-db1000nq (6FA69EAR)",1899.0,0,4,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Brak",449
+"HP 15-da0075na (8UN25EAR)",1899.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,15.6,"Windows 10 Home",450
+"HP 15-dy0013ds (3G832UA)",1899.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,15.6,"Windows 10 Home",451
+"HP 15-dy0014ds (3G417UA)",1899.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,15.6,"Windows 10 Home",452
+"HP Chromebook 14A-NA0030 (9VU04UAR)",1899.0,1,8,"Intel UHD Graphics 605",0,"Intel Pentium N5030",1.1,4,4,14.0,"Chrome OS",453
+"HP 14-fq0013dx (192T6UA)",1899.0,0,8,"AMD Radeon RX Vega 2",0,"AMD Athlon Silver 3050U",2.3,2,2,14.0,"Windows 10 Home",454
+"HP 245 G8 (3V5G5EA)",1899.0,1,8,"AMD Radeon Graphics",0,"AMD Athlon Silver 3050U",2.3,2,2,14.0,"Windows 10 Home",455
+"HP 15s-fq3669nw (584Y6EA)",1899.0,1,8,"Intel UHD Graphics",0,"Intel Celeron N4500",1.1,2,2,15.6,"Windows 11 Home",456
+"Asus VivoBook 15 X515FA (X515FA-EJ181)",1899.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i3-10110U",2.1,2,4,15.6,"Brak",457
+"HP 15s-eq2156nw (15s-eq2156nw)",1899.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Home",458
+"Asus VivoBook 15 X515FA (X515FA-EJ182)",1899.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i3-10110U",2.1,2,4,15.6,"Brak",459
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 4 GB RAM / 512 GB SSD PCIe / Windows 11 S",1899.0,0,4,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",460
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 12 GB RAM / 256 GB SSD PCIe / Windows 11 S",1899.0,1,12,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",461
+"Asus VivoBook 15 i3-1115G5 / 4 GB / 256 GB (X515EA-BQ1007)",1899.0,0,4,"Intel UHD Graphics 600",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",462
+"Lenovo Ideapad 3-15ALC (82KU00VXPB) / 12 GB RAM / 512 GB SSD PCIe",1899.0,1,12,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Brak",463
+"HP 15s-fq2619nw (6Y7X5EA) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",1899.0,2,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",464
+"HP 15s-fq2434nw i3-1115G4 / 8 GB / 256 GB / W11 (712N1EA)",1899.0,3,8,"Intel Iris Xe",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",465
+"Asus ExpertBook B1 B1500 (B1500CEAE-BQ1675RA)",1904.42,6,8,"Intel UHD Graphics",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Pro Edu",466
+"Lenovo V15-ADA (82C7005YPB) 8 GB RAM/ 256 GB M.2 PCIe/ Windows 10 Home",1900.62,1,8,"AMD Radeon RX Vega 3",0,"AMD Athlon Gold 3150U",2.4,2,4,15.6,"Windows 10 Home",467
+"Lenovo V15-ADA (82C7005YPB) 12 GB RAM/ 256 GB M.2 PCIe/ Windows 10 Home",1919.0,9,12,"AMD Radeon RX Vega 3",0,"AMD Athlon Gold 3150U",2.4,2,4,15.6,"Windows 10 Home",468
+"Microsoft Surface Go 3 (8V6-00003)",1935.7,2,4,"Intel UHD Graphics 615",0,"Intel Pentium Gold 6500Y",1.1,2,4,10.5,"Windows 11 S",469
+"Lenovo IdeaPad 3 15ITL6 (82H801QPPB)",1926.07,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",470
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe",1949.0,2,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",471
+"HP 17-cn0019nw (4L237EA_12)",1949.0,1,12,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,17.3,"Windows 10 Home",472
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 20 GB RAM / 256 GB SSD PCIe / Windows 11 S",1949.0,0,20,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",473
+"HP 15s-fq2619nw (6Y7X5EA) / 16 GB RAM / 256 GB SSD PCIe / Windows 11 Home",1949.0,6,16,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",474
+"Lenovo IdeaPad 3 15ITL6 (82H801QQPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 11 S",1949.0,3,12,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",475
+"Asus ExpertBook P1 i3-1115G4 / 8 GB / 256 GB (P1512CEA-EJ0004)",1961.4,4,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",476
+"Asus VivoBook 15 X515EA (X515EA-BQ1225W)",1863.45,4,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 S",477
+"Asus VivoBook 15 X515EA (X515EA-EJ1197W)",1799.0,39,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",478
+"Dell Vostro 3501 (2_335782_20201221101205)",1987.01,0,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",479
+"Asus VivoBook 15 X515EA (X515EA-BQ1115W)",1989.0,0,4,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",480
+"Lenovo IdeaPad 3 17ABA7 (82RQ002QPB)",1996.4,4,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,17.3,"Brak",481
+"HP 17-cn0019nw (4L237EA)",1997.2,2,8,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,17.3,"Windows 10 Home",482
+"HP 340S G7 (2D223EAR#ABZ)",1999.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,14.0,"Windows 10 Pro",483
+"HP 15-db1056nw (25Q20EA)",1999.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Brak",484
+"HP 15-db1050nw (22D17EA)",1999.0,0,4,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Brak",485
+"Lenovo IdeaPad Duet Chromebook CT-X636F (ZA6F0025GB)",1999.0,2,4,"ARM Mali-G72MP3",0,"Mediatek P60T",2.0,8,8,10.1,"Chrome OS",486
+"Acer Aspire 3 A315-23-R4NP",1999.0,1,8,"AMD Radeon RX Vega 2",0,"AMD Athlon Silver 3050e",2.3,2,2,15.6,"Windows 10 Home",487
+"Asus VivoBook 15 X512FA (X512FA-EJ1135)",1999.0,0,8,"Intel HD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,15.6,"Brak",488
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 256 GB SSD PCIe / 512 GB SSD",1999.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",489
+"Asus Vivobook 15 X509JA (X509JA-BR080T)",1999.0,0,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",490
+"Asus VivoBook X705MAR (X705MAR-BX191T)",1999.0,2,8,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,17.3,"Windows 10 Home",491
+"Asus VivoBook 15 X509 (X509FA-BR058T)",1999.0,2,8,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,15.6,"Windows 10 Home",492
+"HP 17-cp0010nr (316R4UA)",1999.0,0,4,"AMD Radeon RX Vega 2",0,"AMD Athlon Silver 3050U",2.3,2,2,17.3,"Windows 11 S",493
+"HP 250 G9 (6F200EA) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",1999.0,1,8,"Intel UHD Graphics",0,"Intel Core i3-1215U",0.9,6,8,15.6,"Windows 11 Home",494
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 12 GB RAM / 512 GB SSD PCIe / Windows 11 S",1999.0,1,12,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",495
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 4 GB RAM / 1 TB SSD PCIe / Windows 11 S",1999.0,0,4,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",496
+"HP 255 G8 Athlon Silver 3050U / 8 GB / 256 GB / W11 (5N3L9EA)",1999.0,0,8,"AMD Radeon RX Vega 2",0,"AMD Athlon Silver 3050U",2.3,2,2,15.6,"Windows 11 Home",497
+"Asus VivoBook 15 X515JA i5-1035G1 / 8 GB / 256 GB (X515JA-BQ3333)",1999.0,29,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",498
+"HP 15s-eq2344nw (712D3EA) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",1999.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",499
+"HP 15s-eq2344nw (712D3EA) / 16 GB RAM / 256 GB SSD PCIe / Windows 11 Home",1999.0,1,16,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",500
+"Asus D543MA (D543MA-DM785)",2008.0,1,4,"Intel UHD Graphics 600",0,"Intel Celeron N4000",1.1,2,2,15.6,"Brak",501
+"Asus VivoBook 15 X515EA (X515EA-BQ1221W)",2021.11,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",502
+"Dell Vostro 3591 (2_334092_20210219163523)",2037.98,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",503
+"Asus VivoBook 15 X515JA (X515JA-BR642T)",1799.0,1,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",504
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 1 TB SSD PCIe",2049.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",505
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 20 GB RAM / 512 GB SSD PCIe / Windows 11 S",2049.0,1,20,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",506
+"Lenovo IdeaPad 3 15IAU7 (82RK006LPB) / 16 GB RAM / 512 GB SSD PCIe",2049.0,3,16,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Brak",507
+"Lenovo IdeaPad 3 15ABA7 (82RN0053PB) / 16 GB RAM / 512 GB SSD PCIe",2049.0,5,16,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Brak",508
+"HP 15s-fq2619nw (6Y7X5EA) / 8 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2049.0,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",509
+"Lenovo V15 G2 ALC Ryzen 3 5300U / 16 GB RAM / 256 GB SSD PCIe / Windows 11 Home (82KD00FYPB)",2049.0,15,16,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",510
+"Acer Extensa EX215-54 (NX.EGJEP.00E)",2067.56,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",511
+"Lenovo V15 G2 i3-1115G4 / 8 GB / 512 GB / W11 (82KB016NPB)",2054.38,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",512
+"Lenovo ThinkBook 15 G2 ARE Ryzen 3 4300U / 8 GB / 256 GB / W10 Pro EDU (20VGS00R00_8_256)",2054.38,0,8,"AMD Radeon RX Vega 5",0,"AMD Ryzen 3 4300U",2.7,4,4,15.6,"Windows 10 Pro Edu",513
+"Asus VivoBook 15 D515 (D515DA-EJ1396W)",2087.0,0,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,15.6,"Windows 11 S",514
+"Lenovo IdeaPad 3 15ALC6 Ryzen 3 5300U / 8 GB / 256 GB / W11S (82KU00CHMH)",2090.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 S",515
+"HP 255 G8 (5N3L5EA)",2001.13,3,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",516
+"Lenovo IdeaPad 3 15IIL05 (81WE0016US)",2099.0,1,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",517
+"Asus VivoBook X515JA (X515JA-BQ1496T)",2099.0,15,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",518
+"HP 15-db1003nw (21V41EA)",2099.0,0,4,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Brak",519
+"HP 14s-dq1936nd (1C4G8EAR)",2099.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,14.0,"Windows 10 Home",520
+"HP 15s-eq1710nd (1E6V0EAR)",2099.0,0,4,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,15.6,"Windows 10 Home",521
+"HP Chromebook 15-de0002na (6QB08EAR)",2099.0,1,8,"Intel UHD Graphics 610",0,"Intel Core i3-8130U",2.2,2,4,15.6,"Chrome OS",522
+"HP 15s-fq2034nw (320U4EAR#AKD)",2099.0,1,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",523
+"Lenovo IdeaPad 3 15ADA05 (81W1007CUS)",2099.0,0,8,"AMD Radeon RX Vega 2",0,"AMD Athlon Silver 3050U",2.3,2,2,15.6,"Windows 10 Home",524
+"HP 15s-eq2000nw (402M9EA)",2099.0,1,4,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Home",525
+"HP 250 G8 (3C3C3ESR)",2099.0,0,4,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,15.6,"Windows 10 Pro",526
+"Acer Aspire 1 A115-32-C44C (NX.A9DAA.001) 8GB + 128GB",2099.0,0,8,"Intel UHD Graphics 600",0,"Intel Celeron N4500",1.1,2,2,15.6,"Windows 10 S",527
+"HP 15s-eq2304nw (4H384EA)",2099.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Home",528
+"HP 15s-fq2038nw (35X55EA)",2099.0,0,4,"Intel UHD Graphics 600",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",529
+"HP Pavilion 15-eh1010nw (425S2EAR#AKD)",2099.0,1,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Home",530
+"HP 250 G9 (6F200EA) / 8 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2099.0,0,8,"Intel UHD Graphics",0,"Intel Core i3-1215U",0.9,6,8,15.6,"Windows 11 Home",531
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 12 GB RAM / 1 TB SSD PCIe / Windows 11 S",2099.0,0,12,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",532
+"HP 15s-eq2344nw (712D3EA) / 8 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2099.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",533
+"Asus VivoBook 15 X515EA (X515EA-EJ1197W) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 S",2099.0,2,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",534
+"Asus VivoBook 15 X515EA (X515EA-EJ1197W) / 16 GB RAM / 256 GB SSD PCIe / Windows 11 S",2099.0,1,16,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",535
+"Lenovo V15 G2 (82KB016JPB) / 12 GB RAM / 256 GB SSD PCIe / Windows 11 Pro",2099.0,8,12,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Pro",536
+"Acer Aspire 3 A315-56 (NX.A0TAA.005)",2139.93,1,8,"Intel UHD Graphics 620",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",537
+"HP 250 G8 (5N3M1EA)",2140.99,1,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",538
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 256 GB SSD PCIe / 1 TB SSD",2149.0,2,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",539
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 20 GB RAM / 1 TB SSD PCIe / Windows 11 S",2149.0,0,20,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",540
+"HP 15s-fq2619nw (6Y7X5EA) / 16 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2149.0,4,16,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",541
+"Lenovo IdeaPad 3 15ABA7 Ryzen 3 5425U / 8 GB / 512 GB / W11 (82RN0054PB)",2176.6,2,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Windows 11 Home",542
+"HP 250 G8 i3-1005G1 / 8 GB / W11 / 256 GB (27K20EA)",2189.0,0,8,"Intel UHD Graphics 600",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 11 Home",543
+"HP 15-db1015nw (7SC41EA)",2199.0,0,4,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",544
+"Lenovo Yoga 530-14IKB (81EK00EMMH)",2199.0,1,4,"Intel HD Graphics 610",0,"Intel Pentium 4415U",2.3,2,4,14.0,"Windows 10 Home",545
+"HP EliteBook 820 G3 (X7Z19ECR)",2199.0,0,4,"Intel HD Graphics 520",0,"Intel Core i5-6300U",2.4,2,4,12.5,"Windows 10 Pro",546
+"HP 17-by1021cl (6MW67UAR)",2199.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,17.3,"Windows 10 Home",547
+"HP 15-db1026nw (9PR14EA)",2199.0,0,4,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",548
+"Asus VivoBook Flip 14 TP412",2199.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,14.0,"Windows 10 Home",549
+"HP 15-db1054nw (25Q18EA)",2199.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",550
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2199.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",551
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 12 GB RAM / 256 GB SSD PCIe / Windows 10 Home",2199.0,1,12,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",552
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 16 GB RAM / 256 GB SSD PCIe / Windows 10 Home",2199.0,2,16,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",553
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 1 TB SSD PCIe / 512 GB SSD",2199.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",554
+"HP 15s-fq2023nt (2N2M4EA)",2199.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",555
+"HP 15-da0019ds (1X5W5UA)",2199.0,0,8,"Intel HD Graphics 610",0,"Intel Pentium Gold 5405U",2.3,2,4,15.6,"Windows 10 Home",556
+"Asus VivoBook 15 X515EA (X515EA-BQ1115W)",2199.0,0,4,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",557
+"HP 255 G8 (3V5H9EA)",2199.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Pro",558
+"HP Pavilion 15-eh1009nh (396N0EA)",2199.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",559
+"HP 15s-eq2135nw (4Y0V0EA)",2199.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",560
+"Asus VivoBook X515JA (X515JA -Q2217T)",2199.0,1,8,"Intel UHD Graphics 600",0,"Intel Core i3-1005G1",1.2,2,4,15.0,"Windows 11 Home",561
+"Acer Aspire 5 A515-46 (NX.ABRAA.007)",2199.0,1,4,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 3350U",2.1,4,4,15.0,"Windows 11 S",562
+"HP 250 G9 (6F200EA) / 16 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2199.0,5,16,"Intel UHD Graphics",0,"Intel Core i3-1215U",0.9,6,8,15.6,"Windows 11 Home",563
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 4 GB RAM / 2 TB SSD PCIe / Windows 11 S",2199.0,0,4,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",564
+"HP 255 G8 Athlon Gold 3150U / 4 GB / 128 GB / W10P (3C2U6ESR)",2199.0,0,4,"AMD Radeon RX Vega 3",0,"AMD Athlon Gold 3150U",2.6,2,4,15.6,"Windows 10 Pro",565
+"HP 255 G8 Ryzen 3 5300U / 8 GB / 256 GB (3V5K5EA)",2199.0,1,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Brak",566
+"HP 255 G8 Ryzen 3 5300U / 8 GB / 256 GB (3V5K4EA)",2199.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Brak",567
+"Lenovo IdeaPad 3 15ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H8019QPB) / 12 GB RAM / 512 GB SSD PCIe",2199.0,7,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",568
+"HP 15s-eq2344nw (712D3EA) / 16 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2199.0,5,16,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",569
+"Asus VivoBook 15 X515EA (X515EA-EJ1197W) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 S",2199.0,7,16,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",570
+"Asus VivoBook 15 X515JA i5-1035G1 / 8 GB / 256 GB / W11 (X515JA-BQ3331W)",2199.0,13,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 11 Home",571
+"HP 15-db1100ny (133V9EA)",2203.99,1,4,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Brak",572
+"Microsoft Surface (MSSL1134128PLA)",2139.58,2,4,"Intel HD Graphics 620",0,"Intel Core i5-7200U",2.5,2,4,13.5,"Windows 10 Pro",573
+"Asus ExpertBook P1 P1512 (P1512CEA-BQ0183X)",2297.4,1,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Pro",574
+"Asus E510 (E510KA-BR149W)",2169.0,1,8,"Intel UHD Graphics",0,"Intel Pentium Silver N6000",1.1,4,4,15.6,"Windows 11 Home",575
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe / 1 TB SSD",2249.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",576
+"Lenovo IdeaPad 3 17ITL6 (82H900D3PB)",2249.0,1,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Brak",577
+"Lenovo IdeaPad 3 15ITL6 (82H8019KPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2249.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",578
+"Gateway/Acer i5-1135G7 / 16 GB / 512 GB / W10 (GWTN141-10BL)",2250.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,14.0,"Windows 10 Home",579
+"Lenovo IdeaPad 3 17ITL6 i3-1115G4 / 8 GB / 512 GB / W11 (82H900TPPB)",2251.8,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 11 Home",580
+"Lenovo Ideapad 3-15IIL (81WE004VPB)",1799.0,11,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",581
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB)",2199.0,1,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",582
+"HP 15s-eq2205nw (477U9EA)",2099.0,1,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Home",583
+"Lenovo ThinkBook 15 G2 ARE Ryzen 3 4300U / 8 GB / 512 GB / W10 Pro EDU (20VGS00R00_8_512)",2139.58,0,8,"AMD Radeon RX Vega 5",0,"AMD Ryzen 3 4300U",2.7,4,4,15.6,"Windows 10 Pro Edu",584
+"Asus VivoBook 15 X515JA i3-1005G1 / 8 GB / 512 GB / W11 (X515JA-BQ3024W)",2264.6,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 11 Home",585
+"HP 15s-eq2124nw (4H381EA)",2199.0,20,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",586
+"Lenovo V15 G2 ALC (82KD000JPB)",2130.99,1,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",587
+"Lenovo V15 G2 (82KD00EVPB)",2286.25,16,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Pro",588
+"Asus Vivobook 17 D712 (D712DA-BX857W)",1999.0,4,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,17.3,"Windows 11 Home",589
+"HP 15-db1018nw (8UB40EA)",2299.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",590
+"HP 15-db1007nw (7DK72EA)",2299.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",591
+"HP 15s-fq1071nw (153P9EA)",2299.0,0,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",592
+"HP 15-db1019nw (9CK32EA)",2299.0,0,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",593
+"Toshiba Satellite Pro C50-H-10D (PYS33E-00F030PL)",2299.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",594
+"HP 15s-fq1115nw (187B8EA)",2299.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",595
+"HP 15-dw0083wm (1A493UAR)",2299.0,0,8,"Intel UHD Graphics 605",0,"Intel Pentium N5000",1.1,4,4,15.6,"Windows 10 Home",596
+"HP 15-da2003nx (8PP88EAR)",2299.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i5-10210U",1.6,4,8,15.6,"Windows 10 Home",597
+"HP 15-db1076nt (9FH05EAR)",2299.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",598
+"HP 15-db1055nw (25Q19EA)",2299.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",599
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 12 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2299.0,2,12,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",600
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2299.0,1,16,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",601
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 8 GB RAM / 1 TB SSD PCIe / Windows 10 Home",2299.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",602
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 32 GB RAM / 256 GB SSD PCIe / Windows 10 Home",2299.0,1,32,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",603
+"HP 15-ef1002ds (3J347UA)",2299.0,0,8,"AMD Radeon RX Vega 3",0,"AMD Athlon Gold 3150U",2.4,2,2,15.6,"Windows 10 Home",604
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 2 TB SSD PCIe",2299.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",605
+"HP 17-by0031ds 9GQ82UAR",2299.0,0,8,"Intel HD Graphics 610",0,"Intel Pentium Gold 4417U",2.3,2,4,17.3,"Windows 10 Home",606
+"HP 14-dq1043clp (1V782UAPNT )",2299.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i3-1005G1",1.2,2,4,14.0,"Windows 11 Home",607
+"Asus VivoBook 15 X513EA (X513EA-BQ2399)",2299.0,1,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1125G4",2.0,4,8,15.6,"Brak",608
+"HP 15-dy2011ds (3Z8A6UAR)",2299.0,1,8,"Intel UHD Graphics 600",0,"Intel Pentium Gold 7505",2.0,2,4,15.6,"Windows 10 Home",609
+"HP Pavilion 15-eh1304nw (4H347EA)",2299.0,3,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",610
+"HP 15s-eq2404nw (4H385EA)",2299.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Home",611
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 256 GB SSD",2299.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",612
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe",2299.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",613
+"Asus VivoBook 15 X515FA (X515FA-EJ179W)",2299.0,0,8,"Intel UHD Graphics 620",0,"Intel Core i3-10110U",2.1,2,4,15.6,"Windows 11 Home",614
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 12 GB RAM / 2 TB SSD PCIe / Windows 11 S",2299.0,0,12,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",615
+"Lenovo IdeaPad 3 15ITL6 (82H8019KPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2299.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",616
+"Asus ExpertBook L1 L1500CDA (L1500CDA-BQ0408R)",2309.99,3,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,15.6,"Windows 10 Pro",617
+"HP 255 G8 3020E / 8 GB / 256 GB / W11 (4K7Y5EA)",2326.59,0,8,"AMD Radeon RX Vega 3",0,"AMD 3020e",1.2,2,2,15.6,"Windows 11 Home",618
+"Acer Extensa 15 EX215-54 i5-1135G7 / 8 GB / 256 GB / W11 (NX.EGJEP.00F)",2331.99,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",619
+"Acer Aspire 3 A315-56 (NX.A0TAA.005)",2343.83,0,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",620
+"HP 17-ca1065cl (8AC92UA)",2343.83,1,12,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,17.3,"Windows 10 Home",621
+"Lenovo IdeaPad 3 15IIL05 (81WE011UUS)",2349.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",622
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 1 TB SSD PCIe / 1 TB SSD",2349.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",623
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 256 GB SSD PCIe / Windows 11 S",2349.0,1,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",624
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD",2349.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",625
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD",2349.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",626
+"Acer Aspire 3 A315-58 (NX.AT0EP.007) / 20 GB RAM / 2 TB SSD PCIe / Windows 11 S",2349.0,0,20,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",627
+"Lenovo IdeaPad 3 15ABA7 (82RN0055PB) / 16 GB RAM / 512 GB SSD PCIe",2349.0,16,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Brak",628
+"Microsoft Surface Go 3 (8V8-00003)",2359.79,1,4,"Intel UHD Graphics 615",0,"Intel Pentium Gold 6500Y",1.1,2,4,10.5,"Windows 11 Pro",629
+"HP 255 G7 (2D321EA) 12 GB RAM/ 256 GB M.2 PCIe/ Windows 10 Home",2448.97,1,12,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",630
+"HP 17-by4013dx (4J8C8UAR)",2390.0,1,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 11 S",631
+"HP 15s-eq2904nw (4H390EA)",2373.88,34,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",632
+"HP HP 15s-eq3195nw 15.6"" Ryzen 5 5625U / 8 GB / W11 / 512 GB (715L6EA)",2394.99,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 11 Home",633
+"Acer Aspire 5 A515-43 (NX.HG8AA.001)",2399.0,0,4,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",634
+"HP 255 G7 (2D321EA) 16 GB RAM/ 256 GB M.2 PCIe/ Windows 10 Home",2457.36,1,16,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",635
+"HP 255 G7 (2D321EA) 8 GB RAM/ 512 GB M.2 PCIe/ Windows 10 Home",2465.26,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",636
+"HP 15-db1012nw (7SB86EA)",2399.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Home",637
+"HP ProBook 430 G6 (6MS31EAR)",2399.0,0,8,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,13.3,"Windows 10 Home",638
+"HP 15-db1029nw (9PX00EA)",2399.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",639
+"HP ProBook 430 G6 (6MS34ESR)",2399.0,0,8,"Intel HD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,13.3,"Windows 10 Home",640
+"HP Pavilion 15-cs3006na (9HJ75EAR)",2399.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",641
+"HP 15s-fq1051nw (155H3EA)",2399.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",642
+"Asus VivoBook X512FA (X512FA-EJ1038)",2399.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i5-8265U",1.6,4,8,15.6,"Brak",643
+"HP 15-dw1000nw (2B4S1EA)",2399.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i3-10110U",2.1,2,4,15.6,"Windows 10 Home",644
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 32 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2399.0,2,32,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",645
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 16 GB RAM / 1 TB SSD PCIe / Windows 10 Home",2399.0,4,16,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",646
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 4 GB RAM / 512 GB SSD PCIe / Windows 10 S",2399.0,0,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",647
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 12 GB RAM / 256 GB SSD PCIe / Windows 10 S",2399.0,0,12,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",648
+"Asus VivoBook 17 M712 (M712DA-WH34)",2399.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,17.3,"Windows 10 Home",649
+"HP 15s-fq2015na (30A25EAR#ABU)",2399.0,3,8,"Intel Iris Plus Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",650
+"Asus Pro P2540FB (P2540FB-GQ0153R)",2399.0,0,4,"NVIDIA GeForce MX110",2,"Intel Core i3-8145U",2.1,2,4,15.6,"Windows 10 Pro",651
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 256 GB SSD PCIe / Windows 10 Home",2399.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",652
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 2 TB SSD PCIe / 512 GB SSD",2399.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",653
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 256 GB SSD PCIe / 2 TB SSD",2399.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",654
+"HP 15-da0020ds (1X0J9UAR)",2399.0,1,8,"Intel HD Graphics 610",0,"Intel Pentium 5405U",2.3,2,4,15.6,"Windows 10 Home",655
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 512 GB SSD PCIe / Windows 11 S",2399.0,1,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",656
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 256 GB SSD PCIe / 256 GB SSD / Windows 11 S",2399.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",657
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 256 GB SSD PCIe / 512 GB SSD / Windows 11 S",2399.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",658
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 256 GB SSD PCIe / Windows 11 S",2399.0,1,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",659
+"HP 255 G8 (3V5F2EA)",2399.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Home",660
+"HP 15s-fq2017nw (364A9EA)",2399.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",661
+"Lenovo IdeaPad 3-15IIL05 (81WE001ACF)",2399.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",662
+"HP 15-dy2010ds (3Z3V9UA)",2399.0,0,8,"Intel UHD Graphics 600",0,"Intel Pentium Gold 7505",2.0,2,4,15.6,"Windows 10 Home",663
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe",2399.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",664
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / 256 GB SSD",2399.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",665
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / 256 GB SSD",2399.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",666
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 512 GB SSD PCIe",2399.0,1,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",667
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 1 TB SSD PCIe",2399.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",668
+"Lenovo IdeaPad 5 14ITL05 (82FE009YUK)",2399.0,1,4,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,14.0,"Windows 10 Home",669
+"Asus Asus VivoBook R564JA-UH31T (90NB0QUF-M09290 8G 512)",2399.0,1,8,"Intel UHD Graphics",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",670
+"HP 255 G8 Ryzen 3 3250U / 8 GB / 256 GB (27K51EA)",2399.0,0,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,15.6,"Brak",671
+"Lenovo Ideapad 3-15ALC (82KU00VXPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2399.0,0,12,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Home",672
+"HP 15s-fq2504nw (4H395EA)",2400.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",673
+"Asus ExpertBook B1 B1500 i3-1115G4 / 8 GB / 512 GB / W11 (B1500CEAE-EJ2960W)",2413.79,3,8,"Intel Iris Xe",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",674
+"Lenovo IdeaPad 3 15ABA7 Ryzen 5 5625U / 8 GB / 512 GB / W11 (82RN0056PB)",2418.2,2,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 11 Home",675
+"Lenovo IdeaPad 3 17ABA7 (82RQ002PPB)",2436.6,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,17.3,"Windows 11 Home",676
+"Lenovo IdeaPad 3 15IIL05 (81WE00U1EU)",2445.78,1,8,"Intel Iris Plus Graphics G4",0,"Intel Core i5-1035G4",1.1,4,8,15.6,"Brak",677
+"HP 255 G7 (15A08EA) 16 GB RAM/ 256 GB M.2 PCIe/",2510.93,1,16,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Brak",678
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 S",2449.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",679
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 20 GB RAM / 256 GB SSD PCIe / Windows 10 S",2449.0,1,20,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",680
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 S",2449.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",681
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 256 GB SSD PCIe / 256 GB SSD / Windows 11 S",2449.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",682
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 256 GB SSD PCIe / Windows 11 S",2449.0,1,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",683
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 1 TB SSD PCIe",2449.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",684
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / 512 GB SSD",2449.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",685
+"Lenovo Ideapad 3-15ALC (82KU00VXPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2449.0,1,12,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",686
+"Lenovo IdeaPad 3 15ITL6 (82H8019KPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2449.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Pro",687
+"Asus ExpertBook B1 B1400 (B1400CEAE-EB0284T)",2451.32,2,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,14.0,"Windows 10 Home",688
+"Acer Aspire 3 i5-1035G1 / 8 GB / 512 GB / W11 (NX.HS5EP.00Q)",2339.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 11 Home",689
+"Asus VivoBook 15 X515EA (X515EA-BQ1226)",2199.0,13,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",690
+"Acer Aspire 3 i5-1135G7 / 8 GB / 512 GB / W11 (NX.ADDEP.01M)",2399.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",691
+"HP 255 G7 (2D321EA) 12 GB RAM/ 512 GB M.2 PCIe/ Windows 10 Home",2549.59,0,12,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",692
+"HP 15s-fq2720nd i3-1115G4 / 8 GB / 256 GB / W10 (424J9EA_8_256)",1873.33,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",693
+"Acer Extensa 15 (NX.EFPEP.00E)",2481.0,3,8,"Intel UHD Graphics 620",0,"Intel Core i3-7020U",2.3,2,4,15.6,"Brak",694
+"HP 15s-fq5244nw i5-1235U / 8 GB / 512 GB / W11 (712N3EA)",2488.8,0,8,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,15.6,"Windows 11 Home",695
+"HP 15-db1002nw (6VP68EA)",2499.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Home",696
+"HP 255 G7 (2D321EA) 16 GB RAM/ 512 GB M.2 PCIe/ Windows 10 Home",2557.98,1,16,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",697
+"HP 15-db1008nw (7EE34EA)",2499.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Home",698
+"HP 15-db1011nw (7SC83EA)",2499.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Home",699
+"HP 15s-fq1004nw (8XN30EA)",2499.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",700
+"HP 15-db1025nw (1F9B3EA)",2499.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Home",701
+"HP 15-db1033nw (9PX62EA)",2499.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Home",702
+"HP 15s-fq1102nw (13G45EA)",2499.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",703
+"HP 15s-eq1028nw (201L0EA)",2499.0,1,16,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3250U",2.6,2,4,15.6,"Windows 10 Home",704
+"Lenovo IdeaPad 3-17IML05 (81WC0001US)",2499.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i3-10110U",2.1,2,4,17.3,"Windows 10 Home",705
+"HP 15s-fq2010nw (2Q4Y2EA)",2499.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",706
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 32 GB RAM / 1 TB SSD PCIe / Windows 10 Home",2499.0,1,32,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",707
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 8 GB RAM / 2 TB SSD PCIe / Windows 10 Home",2499.0,2,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",708
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 10 S",2499.0,4,12,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",709
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 4 GB RAM / 1 TB SSD PCIe / Windows 10 S",2499.0,0,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",710
+"HP ENVY 13-ba1011ne (2Z1J7EAR#ABV)",2499.0,5,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,13.3,"Windows 10 Home",711
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2499.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",712
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 256 GB SSD PCIe / 512 GB SSD / Windows 10 Home",2499.0,4,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",713
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe / 2 TB SSD",2499.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",714
+"Lenovo V15-ADA (82C7S02W00)",2499.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Pro Edu",715
+"Acer Aspire 3 (NX.HT8EP.002) / 4 GB RAM / 512 GB SSD PCIe / Windows 10 S",2499.0,1,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",716
+"Acer Aspire 3 (NX.HT8EP.002) / 12 GB RAM / 256 GB SSD PCIe / Windows 10 S",2499.0,1,12,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",717
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 S",2499.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",718
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 S",2499.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",719
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 11 S",2499.0,1,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",720
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 1 TB SSD PCIe / Windows 11 S",2499.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",721
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 256 GB SSD PCIe / 256 GB SSD / Windows 11 S",2499.0,1,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",722
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 256 GB SSD PCIe / 512 GB SSD / Windows 11 S",2499.0,1,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",723
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 256 GB SSD PCIe / 512 GB SSD / Windows 11 S",2499.0,2,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",724
+"HP 15-dw3002nw (33G92EA)",2499.0,1,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",725
+"HP 15s-fq2156nw (471Q6EA)",2499.0,0,8,"Intel UHD Graphics",0,"Intel Core i3-1115G4",1.7,2,4,15.6,"Windows 10 Home",726
+"HP 17-by2019ds (22J78UA)",2499.0,1,8,"Intel UHD Graphics 630",0,"Intel Celeron N4020",1.1,2,2,17.3,"Windows 10 Home",727
+"HP 17-cn0104nw (4H4E5EA)",2499.0,1,8,"Intel UHD Graphics 600",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 10 Home",728
+"HP 17-by2017ds (22C38UA)",2499.0,0,8,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,17.0,"Windows 10 Home",729
+"HP 250 G8 (5N3M3EA)",2499.0,45,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",730
+"HP 15-dw3123nw (5A115EAR#AKD)",2499.0,1,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",731
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / 256 GB SSD",2499.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",732
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / 512 GB SSD",2499.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",733
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 1 TB SSD PCIe",2499.0,2,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",734
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 512 GB SSD PCIe / 256 GB SSD",2499.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",735
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 512 GB SSD PCIe / 512 GB SSD",2499.0,1,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",736
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 1 TB SSD",2499.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",737
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 1 TB SSD PCIe / 512 GB SSD",2499.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",738
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 512 GB SSD PCIe / 1 TB SSD",2499.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",739
+"HP 15s-fq2689nw (584Y4EA)",2499.0,1,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",740
+"Asus VivoBook 15 X515EA (X515EA-BQ1877)",2499.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",741
+"Lenovo IdeaPad 3 15IAU7 (82RK006LPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2499.0,1,8,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Windows 10 Home",742
+"Lenovo IdeaPad 3 15IAU7 (82RK006LPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2499.0,0,8,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Windows 11 Home",743
+"Lenovo IdeaPad 3 15ABA7 (82RN0053PB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2499.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Windows 10 Home",744
+"Lenovo IdeaPad 3 15ITL6 (82H8019KPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2499.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Pro",745
+"Asus VivoBook 15 X515JA i5-1035G1 / 8 GB / 512 GB / W11 (X515JA-BQ3211W)",2499.0,11,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 11 Home",746
+"Acer Aspire 3 i3-1115G4 / 8GB / 256GB / W11S (NX.AT0EP.003)",2449.0,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",747
+"Toshiba Dynabook Satellite Pro C50-E-104",2517.13,1,8,"Intel UHD Graphics 620",0,"Intel Core i5-8250U",1.6,4,8,15.6,"Windows 10 Pro Edu",748
+"Lenovo IdeaPad 3 17ALC6 (82KV006GPB)",2521.4,1,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,17.3,"Brak",749
+"HP 250 G8 (2X7Y2EA)",2521.5,7,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Pro",750
+"HP 255 G7 (15A08EA) 12 GB RAM/ 512 GB M.2 PCIe/",2603.16,1,12,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Brak",751
+"HP 15s-eq2400nw (4W0H4EA)",2255.59,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",752
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 20 GB RAM / 512 GB SSD PCIe / Windows 10 S",2549.0,1,20,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",753
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 8 GB RAM / 1 TB SSD PCIe / Windows 10 S",2549.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",754
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 S",2549.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",755
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 512 GB SSD PCIe / Windows 11 S",2549.0,1,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",756
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 1 TB SSD PCIe / Windows 11 S",2549.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",757
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 256 GB SSD PCIe / 256 GB SSD / Windows 11 S",2549.0,1,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",758
+"HP 17-cp0104nw (4H3B2EA)",2549.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 5300U",2.6,4,8,17.3,"Windows 10 Home",759
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 1 TB SSD PCIe / 256 GB SSD",2549.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",760
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 1 TB SSD PCIe / 256 GB SSD",2549.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",761
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 1 TB SSD PCIe",2549.0,1,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",762
+"Lenovo IdeaPad 3 15IAU7 (82RK006LPB) / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2549.0,1,16,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Windows 10 Home",763
+"Lenovo Ideapad 3-15ALC (82KU00VXPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2549.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Pro",764
+"HP 15s-eq2904nw (4H390EA) / 8 GB RAM / 1 TB SSD PCIe / Windows 10 Home",2549.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",765
+"Lenovo IdeaPad 3 15ALC6 (82KU00W1PB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2549.0,1,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",766
+"Lenovo IdeaPad 3 15IAU7 (82RK006NPB) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2549.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1235U",1.3,10,12,15.6,"Windows 11 Home",767
+"Lenovo V15 G2 ALC (82KD008UPB)",2533.64,2,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Pro",768
+"Lenovo IdeaPad 5 15ALC05 (82LN00M7PB)",2557.4,8,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",769
+"Asus Notebook B1500CEAE-BQ1674RA i3 1115g4 8/256/int/15.6",2581.3,1,8,"Intel UHD Graphics",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Pro Edu",770
+"HP 15s-eq3125nw Ryzen 5 5625U / 16 GB / 512 GB / W11 (715T2EA)",2591.8,4,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 11 Home",771
+"HP 14-dk0001nw (6VR62EA)",2599.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,14.0,"Windows 10 Home",772
+"HP 15s-fq1151nw (201L2EA)",2599.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",773
+"Asus VivoBook 15 X509 (X509FA-EJ077T)",2599.0,0,8,"Intel UHD Graphics 620",0,"Intel Core i5-8265U",1.6,4,8,15.6,"Brak",774
+"HP ProBook 430 G6 (5PP50EAR)",2599.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,13.3,"Windows 10 Pro",775
+"Lenovo IdeaPad Flex 5-14ARE05 (81X2008JUK)",2599.0,2,4,"AMD Radeon RX Vega 5",0,"AMD Ryzen 3 4300U",2.7,4,4,14.0,"Windows 10 S",776
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 12 GB RAM / 2 TB SSD PCIe / Windows 10 Home",2599.0,0,12,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",777
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 16 GB RAM / 2 TB SSD PCIe / Windows 10 Home",2599.0,0,16,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",778
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 12 GB RAM / 1 TB SSD PCIe / Windows 10 S",2599.0,0,12,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",779
+"HP 15-ef1004ds (3J348UAR)",2599.0,0,8,"AMD Radeon RX Vega 3",0,"AMD Athlon Gold 3150U",2.4,2,4,15.6,"Windows 10 Home",780
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Home",2599.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",781
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 1 TB SSD PCIe / Windows 10 Home",2599.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",782
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 256 GB SSD PCIe / Windows 10 Pro",2599.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",783
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 1 TB SSD PCIe / 2 TB SSD",2599.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",784
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 2 TB SSD PCIe / 1 TB SSD",2599.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",785
+"Acer Aspire 3 (NX.HT8EP.002) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 S",2599.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",786
+"Acer Aspire 3 (NX.HT8EP.002) / 12 GB RAM / 512 GB SSD PCIe / Windows 10 S",2599.0,1,12,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",787
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 512 GB SSD PCIe / 256 GB SSD",2599.0,1,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",788
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD",2599.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",789
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 12 GB RAM / 512 GB SSD PCIe",2599.0,1,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",790
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 512 GB SSD PCIe",2599.0,1,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",791
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 S",2599.0,2,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",792
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 S",2599.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",793
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 S",2599.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",794
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 1 TB SSD PCIe / 256 GB SSD / Windows 11 S",2599.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",795
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 1 TB SSD PCIe / 512 GB SSD / Windows 11 S",2599.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",796
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 1 TB SSD PCIe / Windows 11 S",2599.0,1,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",797
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 256 GB SSD PCIe / 512 GB SSD / Windows 11 S",2599.0,1,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",798
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 256 GB SSD PCIe / 1 TB SSD / Windows 11 S",2599.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",799
+"HP 250 G8 2X7V0EA",2599.0,1,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Pro",800
+"HP 17-by4010nr (2Q4U8UAR)",2599.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1125G4",2.0,4,8,17.3,"Windows 10 Home",801
+"HP 17-cn0013dx (37P29UA)",2599.0,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 10 Home",802
+"HP 17-cn0013dx (37P29UA 128SSD)",2599.0,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 10 Home",803
+"HP 255 G8 (4K7N7EA)",2599.0,2,8,"AMD Radeon Graphics",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Home",804
+"HP 17-by2007ds (1H9N0UA)",2599.0,0,8,"Intel UHD Graphics 600",0,"Intel Pentium Gold 6405U",2.4,2,4,17.3,"Windows 10 Home",805
+"HP 17-by4008cy (389F0UA)",2599.0,1,8,"Intel UHD Graphics 600",0,"Intel Core i3-1125G4",2.0,4,8,17.3,"Windows 10 Home",806
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 1 TB SSD PCIe / 512 GB SSD",2599.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",807
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 1 TB SSD PCIe / 512 GB SSD",2599.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",808
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 2 TB SSD PCIe",2599.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",809
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / 1 TB SSD",2599.0,1,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",810
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 2 TB SSD PCIe",2599.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",811
+"Lenovo IdeaPad 3 15IAU7 (82RK006LPB) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2599.0,1,16,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Windows 11 Home",812
+"Lenovo IdeaPad 3 15ABA7 (82RN0053PB) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2599.0,0,16,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Windows 11 Home",813
+"Lenovo Ideapad 3-15ALC (82KU00VXPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2599.0,0,12,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 10 Pro",814
+"Lenovo IdeaPad 3 15ALC6 (82KU00W1PB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2599.0,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",815
+"Lenovo IdeaPad 3 17IAU7 (82RL002QPB)",2606.2,0,8,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,17.3,"Windows 11 Home",816
+"Toshiba Satellite Pro C50-J-111 (A1PYS44E1112)",2399.0,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1125G4",2.0,4,8,15.6,"Brak",817
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 20 GB RAM / 1 TB SSD PCIe / Windows 10 S",2649.0,0,20,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",818
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 12 GB RAM / 512 GB SSD PCIe / 256 GB SSD",2649.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",819
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 24 GB RAM / 512 GB SSD PCIe",2649.0,1,24,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",820
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 S",2649.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",821
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 1 TB SSD PCIe / 256 GB SSD / Windows 11 S",2649.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",822
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 1 TB SSD PCIe / Windows 11 S",2649.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",823
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 256 GB SSD PCIe / 1 TB SSD / Windows 11 S",2649.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",824
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 1 TB SSD PCIe / 256 GB SSD",2649.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",825
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 2 TB SSD PCIe",2649.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",826
+"Lenovo IdeaPad 3 15IAU7 (82RK006LPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2649.0,1,8,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Windows 11 Pro",827
+"Lenovo IdeaPad 3 15ABA7 (82RN0053PB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2649.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Windows 11 Pro",828
+"Lenovo IdeaPad 3 15ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H8019QPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2649.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",829
+"Lenovo V15 G4 AMN Ryzen 3 7320U / 8 GB / 256 GB / W11 (82YU00UNPB)",2621.51,0,8,"AMD Radeon 610M",0,"AMD Ryzen 3 7320U",2.4,4,8,15.6,"Windows 11 Home",830
+"Acer Aspire 3 A315-56 (A315-56-594WDX)",2649.68,0,12,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",831
+"HP Pavilion 15-er0225oddx",2649.68,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",832
+"Lenovo IdeaPad 5 15ITL05 (82FG014FPB)",2599.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1155G7",2.5,4,8,15.6,"Windows 10 Home",833
+"Lenovo IdeaPad G500 (59-419362)",2667.0,0,4,"Intel HD 4000",0,"Intel Core i3-3110M",2.4,2,4,15.6,"Windows 8.1 Pro",834
+"HP 255 G9 (6F2C5EA)",2670.99,13,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 11 Pro",835
+"Lenovo B50-80 (80EW053JPB)",2687.0,0,4,"Intel HD 5500",0,"Intel Core i3-5005U",2.0,2,4,15.6,"Windows 10 Pro, 
+
+
+
+
+Windows 7 Professional",836
+"HP Pavilion 15-cs0952nd (4RE00EAR)",2699.0,0,8,"Intel HD Graphics 620",0,"Intel Core i5-8250U",1.6,4,8,15.6,"Windows 10 Home",837
+"HP Pavilion x360 14-dw0003nw (1F7M1EA)",2699.0,1,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,14.0,"Windows 10 Home",838
+"Lenovo IdeaPad C340-15IIL (81XJ004NUK)",2699.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",839
+"HP 15s-fq1065nw (238F8EA)",2699.0,0,4,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",840
+"HP ProBook 430 G7 (10R59EAR)",2699.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-10110U",2.1,2,4,13.3,"Windows 10 Pro",841
+"HP 15-db1067nw (2K7B1EA)",2699.0,1,16,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Home",842
+"Dell Vostro 3591 (N306ZVN3591EMEA01_2101_HOME) / 32 GB RAM / 2 TB SSD PCIe / Windows 10 Home",2699.0,0,32,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",843
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 4 GB RAM / 2 TB SSD PCIe / Windows 10 S",2699.0,0,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",844
+"Lenovo V15-ADA (82C7000RPB) / 8 GB RAM / 256 GB SSD PCIe / 512 GB SSD / Windows 10 Home",2699.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Home",845
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 1 TB SSD PCIe / 512 GB SSD / Windows 10 Home",2699.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",846
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 256 GB SSD PCIe / 1 TB SSD / Windows 10 Home",2699.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",847
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2699.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",848
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 256 GB SSD PCIe / 512 GB SSD / Windows 10 Pro",2699.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",849
+"HP 15s-eq2010nw (402N8EA)",2699.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",850
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 12 GB RAM / 1 TB SSD PCIe",2699.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",851
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 512 GB SSD PCIe / 256 GB SSD",2699.0,0,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",852
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 12 GB RAM / 512 GB SSD PCIe / 512 GB SSD",2699.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",853
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 512 GB SSD PCIe / 512 GB SSD",2699.0,1,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",854
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 S",2699.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",855
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 11 S",2699.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",856
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 1 TB SSD PCIe / 256 GB SSD / Windows 11 S",2699.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",857
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 1 TB SSD PCIe / 512 GB SSD / Windows 11 S",2699.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",858
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 1 TB SSD PCIe / 512 GB SSD / Windows 11 S",2699.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",859
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 2 TB SSD PCIe / Windows 11 S",2699.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",860
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 256 GB SSD PCIe / 1 TB SSD / Windows 11 S",2699.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",861
+"HP 255 G8 (3V5H2EA)",2699.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",862
+"HP 17-by0008cy 4SH86UA",2699.0,0,8,"Intel HD Graphics 620",0,"Intel Core i3-8130U",2.2,2,4,17.3,"Windows 10 Home",863
+"HP 17-by0006cy 4SH40UA",2699.0,0,8,"Intel HD Graphics 620",0,"Intel Core i3-8130U",2.2,2,4,17.3,"Windows 10 Home",864
+"Asus VivoBook 15 X509JA (X509JA-I581GT)",2699.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",865
+"HP 17-by0019ds 6XQ66UA",2699.0,0,8,"Intel HD Graphics 610",0,"Intel Pentium Gold 4417U",2.3,2,4,17.3,"Windows 10 Home",866
+"HP 17-cn0006ds (3Z400UA)",2699.0,1,8,"Intel UHD Graphics G4",0,"Intel Core i3-1125G4",2.0,4,8,17.3,"Windows 10 Home",867
+"HP 250 G8 (3V5F4EA)",2699.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",868
+"HP 17-by0018ds 6XQ65UA",2699.0,0,8,"Intel UHD Graphics 610",0,"Intel Pentium Gold 4417U",2.3,2,4,17.3,"Windows 10 Home",869
+"HP 15s-eq1125nw (37K42EA)",2699.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 5 4500U",2.3,6,6,15.6,"Brak",870
+"HP 250 G8 (27K23EA)",2699.0,1,8,"Intel UHD Graphics 600",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",871
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / 1 TB SSD",2699.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",872
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 2 TB SSD PCIe / 256 GB SSD",2699.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",873
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 2 TB SSD PCIe / 512 GB SSD",2699.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",874
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 2 TB SSD PCIe",2699.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",875
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 512 GB SSD PCIe / 1 TB SSD",2699.0,1,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",876
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 1 TB SSD PCIe / 1 TB SSD",2699.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",877
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 2 TB SSD PCIe / 512 GB SSD",2699.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",878
+"HP 250 G8 i5-1035G1 / 8GB / 512 GB (2X7V7EA)",2699.0,0,8,"Intel UHD Graphics 600",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",879
+"Lenovo IdeaPad 3 15IAU7 (82RK006LPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2699.0,0,8,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Windows 10 Pro",880
+"Lenovo IdeaPad 3 15ABA7 (82RN0053PB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2699.0,3,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Windows 10 Pro",881
+"Lenovo IdeaPad 3 15ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H8019QPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2699.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",882
+"Lenovo IdeaPad 3 15ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H8019QPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2699.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",883
+"Lenovo IdeaPad 3 15ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H8019QPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2699.0,3,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",884
+"Lenovo IdeaPad 3 15IAU7 (82RK006PPB) / 16 GB RAM / 512 GB SSD PCIe",2699.0,27,16,"Intel Iris Xe",0,"Intel Core i5-1235U",1.3,10,12,15.6,"Brak",885
+"HP Pavilion 15-eh2035nw Ryzen 5 5625U / 8 GB / 512 GB (715Z9EA)",2729.4,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Brak",886
+"HP 250 G9 (6F2C6EA)",2731.99,5,8,"Intel UHD Graphics",0,"Intel Core i3-1215U",0.9,6,8,15.6,"Windows 11 Pro",887
+"Asus ExpertBook B1 B1500 (B1500CEAE-BQ1668R)",2699.0,4,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Pro",888
+"Lenovo IdeaPad 3 17ABA7 (82RQ002RPB)",2741.6,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,17.3,"Brak",889
+"HP ProBook 445 G8 Ryzen 3 5400U / 8 GB / 256 GB / W10 Pro (4K7C1EA)",2746.64,1,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5400U",2.6,4,8,14.0,"Windows 10 Pro",890
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 1 TB SSD PCIe / 256 GB SSD",2749.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",891
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 1 TB SSD PCIe",2749.0,0,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",892
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 24 GB RAM / 512 GB SSD PCIe / 256 GB SSD",2749.0,0,24,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",893
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 11 S",2749.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",894
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 1 TB SSD PCIe / 256 GB SSD / Windows 11 S",2749.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",895
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 256 GB SSD PCIe / 1 TB SSD / Windows 11 S",2749.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",896
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2749.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",897
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 1 TB SSD PCIe / 1 TB SSD",2749.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",898
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 2 TB SSD PCIe / 256 GB SSD",2749.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",899
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 2 TB SSD PCIe",2749.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",900
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2749.0,2,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",901
+"Lenovo IdeaPad 3 15IAU7 (82RK006LPB) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2749.0,4,16,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Windows 11 Pro",902
+"Lenovo IdeaPad 3 15ABA7 (82RN0053PB) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2749.0,1,16,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Windows 11 Pro",903
+"Lenovo IdeaPad 3 17ITL6 (82H900TSPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2749.0,0,8,"Intel UHD Graphics Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 10 Home",904
+"Huawei MateBook D15 (53013AWC)",2499.0,1,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",1.7,2,4,15.6,"Windows 11 Home",905
+"Asus VivoBook 15 X515JA (X515JA-BQ2627W)",2758.46,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 11 Home",906
+"HP 17-cn0039nw (4L239EA)",2779.0,1,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 11 Home",907
+"Lenovo Ideapad S340-15IWL (81N800KYPB)",2780.0,0,4,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,15.6,"Brak",908
+"HP 15s-eq2406nw Ryzen 3 5300U / 8 GB / 256 GB / W11 (6Y4U3EA)",2699.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",909
+"HP 15-bs155nw",2786.0,2,8,"Intel HD 5500",0,"Intel Core i3-5005U",2.0,2,4,15.6,"Windows 10 Home",910
+"Lenovo Flex-15IWL (81SR0000US)",2799.0,1,4,"Intel UHD Graphics 620",0,"Intel Core i5-8265U",1.6,4,8,15.6,"Windows 10 Home",911
+"HP 15s-eq0034nw (2A9A3EA)",2799.0,1,8,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Windows 10 Home",912
+"HP 14s-dq1036nw (220J9EA)",2799.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,14.0,"Windows 10 Home",913
+"HP 15s-fq1094nw (25Q54EA)",2799.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",914
+"Lenovo IdeaPad Flex 5 14ARE05 (81X20086PB)",2799.0,2,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 4300U",2.7,4,4,14.0,"Windows 10 Home",915
+"HP Pavilion 13-an1006nv (1V1Z2EAR)",2799.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,13.3,"Windows 10 Home",916
+"HP Pavilion 13-an1958nd (1C4C0EAR)",2799.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,13.3,"Windows 10 Home",917
+"HP 15s-eq1009nw (21V77EA)",2799.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 5 4500U",2.3,6,6,15.6,"Windows 10 Home",918
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 8 GB RAM / 2 TB SSD PCIe / Windows 10 S",2799.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",919
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 12 GB RAM / 2 TB SSD PCIe / Windows 10 S",2799.0,0,12,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",920
+"HP 15-ef1003ds (3J349UA)",2799.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Athlon Gold 3150U",2.4,2,2,15.6,"Windows 10 Home",921
+"HP 15-dw3001nw (33G91EAR)",2799.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",922
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 10 Home",2799.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",923
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 2 TB SSD PCIe / Windows 10 Home",2799.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",924
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Pro",2799.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",925
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 1 TB SSD PCIe / Windows 10 Pro",2799.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",926
+"HP 15s-eq2013nw (402P1EA)",2799.0,1,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",927
+"Asus ExpertBook B1 B1500 (B1500CEAE-BQ0087T)",2799.0,1,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",928
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 12 GB RAM / 1 TB SSD PCIe / 256 GB SSD",2799.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",929
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 1 TB SSD PCIe / 512 GB SSD",2799.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",930
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 24 GB RAM / 1 TB SSD PCIe",2799.0,1,24,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",931
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 24 GB RAM / 512 GB SSD PCIe / 512 GB SSD",2799.0,0,24,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",932
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 512 GB SSD PCIe / 1 TB SSD",2799.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",933
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 11 S",2799.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",934
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 1 TB SSD PCIe / 512 GB SSD / Windows 11 S",2799.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",935
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 1 TB SSD PCIe / 1 TB SSD / Windows 11 S",2799.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",936
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 2 TB SSD PCIe / 256 GB SSD / Windows 11 S",2799.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",937
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 2 TB SSD PCIe / 512 GB SSD / Windows 11 S",2799.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",938
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 2 TB SSD PCIe / Windows 11 S",2799.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",939
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 2 TB SSD PCIe / Windows 11 S",2799.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",940
+"Lenovo IdeaPad 3 17IML05 81WC006GMH",2799.0,0,8,"Intel UHD Graphics 620",0,"Intel Core i5-10210U",1.6,4,8,17.3,"Windows 10 Home",941
+"HP IdeaPad Flex 5 14ARE05 (81X2000HUS)",2799.0,0,4,"AMD Radeon RX Vega 5",0,"AMD Ryzen 3 4300U",2.7,4,4,14.0,"Windows 10 Home",942
+"HP 17-BY4008 (389F0UAR)",2799.0,1,8,"Intel Iris Xe",0,"Intel Core i3-1125G4",2.0,4,8,17.3,"Windows 10 Home",943
+"HP Pavilion 13-bb0003nl (342P4EA)",2799.0,1,8,"Intel Iris Xe",0,"Intel Core i7-1165G7",2.8,4,8,13.3,"Windows 10 Home",944
+"HP 17-cn0013dx (37P29UA 256SSD)",2799.0,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 10 Home",945
+"HP 17-by2018ds (22C73UAR)",2799.0,0,8,"Intel UHD Graphics 600",0,"Intel Celeron N4020",1.1,2,2,17.3,"Windows 10 Home",946
+"HP 15s-eq2185nw (5T5Z3EA)",2799.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",947
+"HP 250 G8 (27K4TEA)",2799.0,2,16,"Intel UHD Graphics 600",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",948
+"HP Pavilion 13-bb0005nl (342P6EAR#ABZ)",2799.0,0,8,"Intel Iris Xe",0,"Intel Core i7-1165G7",2.8,4,8,13.3,"Windows 10 Home",949
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2799.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",950
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2799.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",951
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 1 TB SSD PCIe / 1 TB SSD",2799.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",952
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 2 TB SSD PCIe / 256 GB SSD",2799.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",953
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 2 TB SSD PCIe / 512 GB SSD",2799.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",954
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 2 TB SSD PCIe / 512 GB SSD",2799.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",955
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 2 TB SSD",2799.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",956
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2799.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",957
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 512 GB SSD PCIe / 2 TB SSD",2799.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",958
+"Lenovo IdeaPad Flex 5 14IIL05 (81X1000NUS)",2799.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,14.0,"Windows 10 S",959
+"HP 14s-fq0037nw Ryzen 5 4500U / 8 GB / W10 / 512 GB (37J45EA)",2799.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 4500U",2.3,6,6,14.0,"Windows 10 Home",960
+"Lenovo IdeaPad 3 15ABA7 (82RN0055PB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2799.0,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 10 Home",961
+"Lenovo IdeaPad 3 15ABA7 (82RN0055PB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2799.0,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 11 Home",962
+"Lenovo IdeaPad 3 15IAU7 (82RK006LPB) / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2799.0,2,16,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Windows 10 Pro",963
+"Lenovo IdeaPad Flex 5 14IARE05 (81X2009YUS)",2799.0,0,8,"AMD Radeon RX Vega 5",0,"AMD Ryzen 3 4300U",2.7,4,4,14.0,"Windows 10 Home",964
+"Lenovo IdeaPad Flex 5 14ITL05 (82HS0008US)",2799.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,14.0,"Windows 10 Home",965
+"Lenovo IdeaPad 3 15ABA7 (82RN0053PB) / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2799.0,0,16,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5425U",2.7,4,8,15.6,"Windows 10 Pro",966
+"Lenovo IdeaPad 3 17ITL6 (82H900TSPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2799.0,1,8,"Intel UHD Graphics Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 11 Home",967
+"Lenovo IdeaPad 3 15ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H8019QPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2799.0,5,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",968
+"Hiro BX151 (NBC-BX1513I3-H02)",2788.08,0,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",969
+"HP 255 G7 (2D232EA) 16 GB RAM/ 1 TB M.2 PCIe/",2072.47,7,16,"AMD Radeon RX Vega 8",0,"AMD Ryzen 5 3500U",2.1,4,8,15.6,"Brak",970
+"Asus VivoBook 15 (X509FA-EJ075T)",2842.0,1,4,"Intel UHD Graphics 620",0,"Intel Core i3-8145U",2.1,2,4,15.6,"Windows 10 Home",971
+"HP 17-cn2063cl i5-1235U / 12 GB / 512 GB / W11 (641G6UA)",2846.82,2,8,"Intel Iris Xe",0,"Intel Core i5-1235U",0.9,10,12,17.3,"Windows 11 Home",972
+"HP 250 G7 (14Z75EA) / 8 GB RAM / 512 GB SSD PCIe",2849.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",973
+"Lenovo Ideapad 3-15IIL (81WE004VPB) / 20 GB RAM / 2 TB SSD PCIe / Windows 10 S",2849.0,1,20,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 S",974
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 2 TB SSD PCIe / 2 TB SSD",2849.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Brak",975
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 12 GB RAM / 1 TB SSD PCIe / 512 GB SSD",2849.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",976
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 1 TB SSD PCIe / 256 GB SSD",2849.0,1,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",977
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 2 TB SSD PCIe",2849.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",978
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 11 S",2849.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",979
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 1 TB SSD PCIe / 1 TB SSD / Windows 11 S",2849.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",980
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 2 TB SSD PCIe / Windows 11 S",2849.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",981
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 256 GB SSD PCIe / 2 TB SSD / Windows 11 S",2849.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",982
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 10 Home",2849.0,2,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",983
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2849.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",984
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 1 TB SSD PCIe / 1 TB SSD",2849.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",985
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 2 TB SSD PCIe / 256 GB SSD",2849.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",986
+"Lenovo IdeaPad 3 15ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H8019QPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2849.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Pro",987
+"Lenovo IdeaPad 3 15ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H8019QPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2849.0,2,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",988
+"Dell Vostro 3510 i3-1115G4 / 8 GB / 256 GB / W11 Pro (N8802VN3510EMEA01_N1)",2851.99,11,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Pro",989
+"Lenovo IdeaPad 5 14ALC05 Ryzen 5 5500U / 8 GB / 512 GB / W11 (82LM00M9PB)",2864.6,10,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,14.0,"Windows 11 Home",990
+"HP 255 G7 (15A08EA) 8 GB RAM/ 256 GB M.2 PCIe/ Windows 10 Home",2956.18,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",991
+"Lenovo V15 G3 IAP (82TT006EPB)",2870.99,0,8,"Intel UHD Graphics Xe",0,"Intel Core i3-1215U",1.2,6,8,15.6,"Windows 11 Home",992
+"Dynabook Satellite Pro C50-G-104",2877.89,0,8,"Intel UHD Graphics 620",0,"Intel Core i3-10110U",2.1,2,4,15.6,"Brak",993
+"HP 15-db1019nw (9CK32EA)",2883.0,1,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.5,"Windows 10 Home",994
+"HP 15-db1032nw (9PX61EA)",2893.0,0,8,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 2200U",2.5,2,4,15.6,"Brak",995
+"Acer Aspire 3 A317-53 (NX.AD0EP.00Q)",1999.0,0,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 11 Home",996
+"HP Pavilion x360 14-cd0957nd (4AZ22EAR)",2899.0,1,8,"Intel HD Graphics 620",0,"Intel Core i5-8250U",1.6,4,8,14.0,"Windows 10 Home",997
+"HP 15s-fq1000nw (8RU53EA)",2899.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",998
+"Lenovo Ideapad 710S-13IKB (80VQ0018UK)",2899.0,1,8,"Intel HD Graphics 620",0,"Intel Core i5-7200U",2.5,2,4,13.3,"Windows 10 Home",999
+"HP 17-by2000nw (9CU00EA)",2899.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i5-10210U",1.6,4,8,17.3,"Windows 10 Home",1000
+"Lenovo Ideapad 3-15IIL (81WE0048PB)",2899.0,1,8,"Intel UHD Graphics 620",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",1001
+"Asus VivoBook 15 X512 (X512FJ-EJ073T)",2899.0,1,8,"NVIDIA GeForce MX230",2,"Intel Core i7-8565U",1.8,4,8,15.6,"Windows 10 Home",1002
+"HP 15s-fq1442nd (8BQ25EA)",2899.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",1003
+"HP 15s-fq1133nw (1P8H6EA)",2899.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",1004
+"HP 15s-fq1050nd (10C01EAR)",2899.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",1005
+"HP 250 G7 (14Z75EA) / 16 GB RAM / 256 GB SSD PCIe",2899.0,1,16,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",1006
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 1 TB SSD PCIe / 1 TB SSD / Windows 10 Home",2899.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",1007
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 2 TB SSD PCIe / 512 GB SSD / Windows 10 Home",2899.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",1008
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 1 TB SSD PCIe / 512 GB SSD / Windows 10 Pro",2899.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",1009
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 256 GB SSD PCIe / 1 TB SSD / Windows 10 Pro",2899.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",1010
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 24 GB RAM / 1 TB SSD PCIe / 256 GB SSD",2899.0,0,24,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1011
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 1 TB SSD PCIe / 512 GB SSD",2899.0,0,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1012
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 12 GB RAM / 2 TB SSD PCIe",2899.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1013
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 12 GB RAM / 512 GB SSD PCIe / 1 TB SSD",2899.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1014
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 512 GB SSD PCIe / 1 TB SSD",2899.0,0,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1015
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 1 TB SSD PCIe / 1 TB SSD / Windows 11 S",2899.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1016
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 2 TB SSD PCIe / 256 GB SSD / Windows 11 S",2899.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1017
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 2 TB SSD PCIe / 256 GB SSD / Windows 11 S",2899.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1018
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 2 TB SSD PCIe / 512 GB SSD / Windows 11 S",2899.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1019
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 2 TB SSD PCIe / 512 GB SSD / Windows 11 S",2899.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1020
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 256 GB SSD PCIe / 2 TB SSD / Windows 11 S",2899.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1021
+"Asus Vivobook 15 X509JB (X509JB-EJ010T)",2899.0,0,8,"NVIDIA GeForce MX110",2,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",1022
+"HP 15s-eq1001nw (37J09EA)",2899.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 5 4500U",2.3,6,6,15.6,"Windows 10 Home",1023
+"HP 17-by1003ca (6GJ18UAR)",2899.0,0,8,"Intel HD Graphics 620",0,"Intel Core i5-8265U",1.6,4,8,17.3,"Windows 10 Home",1024
+"HP 15s-eq2232nw (4N963EAR#AKD)",2899.0,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",1025
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / Windows 10 Home",2899.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1026
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 10 Home",2899.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1027
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Home",2899.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1028
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2899.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1029
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2899.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1030
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 Home",2899.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1031
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 Home",2899.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1032
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2899.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",1033
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 2 TB SSD PCIe / 512 GB SSD",2899.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1034
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 2 TB SSD PCIe / 1 TB SSD",2899.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1035
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / 2 TB SSD",2899.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1036
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / 2 TB SSD",2899.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1037
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 1 TB SSD PCIe / Windows 10 Home",2899.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",1038
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Home",2899.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",1039
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2899.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",1040
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 Home",2899.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",1041
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 2 TB SSD PCIe / 1 TB SSD",2899.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",1042
+"HP Pavilion x360 15-er0635nd (3D0L0EAR)",2899.0,1,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",1043
+"Lenovo IdeaPad Flex 5 14ARE05 (81X2000UCF)",2899.0,1,8,"AMD Radeon RX Vega 5",0,"AMD Ryzen 3 4300U",2.7,4,4,14.0,"Windows 10 Home",1044
+"Lenovo IdeaPad Flex 5 14ALC05 (82HU00F0MH)",2899.0,1,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,14.0,"Windows 10 S",1045
+"Lenovo IdeaPad Flex 5 14ARE05 (81X2003KMH)",2899.0,1,8,"AMD Radeon RX Vega 5",0,"AMD Ryzen 3 4300U",2.7,4,4,14.0,"Windows 10 S",1046
+"Lenovo IdeaPad 3 17ITL (82H900GKPB) / 8 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 Home",2899.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 11 Home",1047
+"HP 15s-fq2032nw i5-1135G7 / 8 GB / W11 / 512 GB (320U3EA)",2899.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.0,"Windows 11 Home",1048
+"Lenovo IdeaPad 3 15ABA7 (82RN0055PB) / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2899.0,0,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 10 Home",1049
+"Lenovo IdeaPad 3 15ABA7 (82RN0055PB) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2899.0,0,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 11 Home",1050
+"Lenovo IdeaPad 3 17ITL6 (82H900TSPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2899.0,3,8,"Intel UHD Graphics Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 11 Pro",1051
+"Lenovo IdeaPad 3 15ITL6 Core i5-1135G7 / 8 GB / 512 GB (82H8019QPB) / 12 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2899.0,5,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Pro",1052
+"Lenovo IdeaPad 3 17IAU7 (82RL0042PB) / 16 GB RAM / 512 GB SSD PCIe",2899.0,4,16,"Intel Iris Xe",0,"Intel Core i5-1235U",1.3,10,12,17.3,"Brak",1053
+"Hiro BX150 (NBC-BX1503I3-H02)",2872.59,1,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",1054
+"Lenovo V15 G2 ITL (82KB016KPB)",2906.39,13,8,"Intel Iris Plus Graphics G7",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",1055
+"HP Pavilion 15-cs3153cl",2928.89,2,12,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",1056
+"Dell Inspiron 15 3511 i5-1135G7 / 16 GB / 256 GB / W11 (3511-9300_16)",2931.4,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1057
+"Dell Vostro 3510 i3-1115G4 / 8 GB / 256 GB / W11 Pro (N8802VN3510EMEA01_N1_PS)",2935.39,2,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Pro",1058
+"HP 255 G7 (15A08EA) 12 GB RAM/ 256 GB M.2 PCIe/ Windows 10 Home",3040.51,1,12,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",1059
+"HP 250 G7 (14Z75EA) / 16 GB RAM / 512 GB SSD PCIe",2949.0,3,16,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",1060
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 256 GB SSD PCIe / 2 TB SSD / Windows 10 Home",2949.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",1061
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 24 GB RAM / 1 TB SSD PCIe / 512 GB SSD",2949.0,0,24,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1062
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 1 TB SSD PCIe / 1 TB SSD",2949.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1063
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 2 TB SSD PCIe / 256 GB SSD",2949.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1064
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 2 TB SSD PCIe",2949.0,1,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1065
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 24 GB RAM / 512 GB SSD PCIe / 1 TB SSD",2949.0,0,24,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1066
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 512 GB SSD PCIe / 2 TB SSD / Windows 11 S",2949.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1067
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 1 TB SSD PCIe / 1 TB SSD / Windows 11 S",2949.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1068
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 2 TB SSD PCIe / 256 GB SSD / Windows 11 S",2949.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1069
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 256 GB SSD PCIe / 2 TB SSD / Windows 11 S",2949.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1070
+"HP 17-cn0039nw (4L239EA) / 8 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2949.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 11 Home",1071
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 10 Home",2949.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1072
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Home",2949.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1073
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2949.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Pro",1074
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 Home",2949.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1075
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 Home",2949.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1076
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 512 GB SSD PCIe / Windows 11 Home",2949.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1077
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / 2 TB SSD",2949.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1078
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 2 TB SSD PCIe / 1 TB SSD",2949.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1079
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 512 GB SSD PCIe / 2 TB SSD",2949.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1080
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2949.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Pro",1081
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 1 TB SSD PCIe / 2 TB SSD",2949.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Brak",1082
+"Lenovo IdeaPad 3 17ITL6 (82H900TSPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2949.0,0,8,"Intel UHD Graphics Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 10 Pro",1083
+"HP Pavilion 15-eh2055nw Ryzen 5 5625U / 8 GB / 512 GB (715J7EA)",2900.99,1,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,8,15.6,"Brak",1084
+"Lenovo V130-15IKB (81HN00PMPB) 20 GB RAM/ 256 GB M.2 PCIe/ Windows 10 Pro",2959.55,1,20,"Intel UHD Graphics 620",0,"Intel Core i5-8250U",1.6,4,8,15.6,"Windows 10 Pro",1085
+"HP 255 G7 (15A08EA) 16 GB RAM/ 256 GB M.2 PCIe/ Windows 10 Home",3048.9,1,16,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",1086
+"HP 17-by4633dx (3Y054UA)",2969.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 10 Home",1087
+"HP 15s-eq2186nw (471P6EAR#AKD)",2635.63,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",1088
+"Dell Vostro 3510 i3-1115G4 / 8 GB / 512 GB / W11 Pro (N8801VN3510EMEA01_N1_W11)",2977.99,3,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Pro",1089
+"Asus ExpertBook P2451FA (P2451FB-EB0018R)",2979.0,1,8,"NVIDIA GeForce MX110",2,"Intel Core i5-10210U",1.6,4,8,14.0,"Windows 10 Pro",1090
+"Lenovo IdeaPad 5 15ALC05 (82LN00M8PB)",2990.0,2,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",1091
+"HP 250 G8 (2W9A0EA)",2994.22,1,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",1092
+"HP Pavilion 13-an0000nw (5CT91EAR)",2999.0,1,8,"Intel HD Graphics 620",0,"Intel Core i5-8265U",1.6,4,8,13.3,"Windows 10 Home",1093
+"HP Pavilion 15-cs0972nd (4RE03EAR)",2999.0,0,8,"Intel HD Graphics 620",0,"Intel Core i7-8550U",1.8,4,8,15.6,"Windows 10 Home",1094
+"HP Pavilion 15-cs3016nw (8UB36EA)",2999.0,1,8,"NVIDIA GeForce MX250",2,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",1095
+"HP Pavilion 13-an0006na (5MM33EAR)",2999.0,0,8,"Intel UHD Graphics 620",0,"Intel Core i5-8265U",1.6,4,8,13.3,"Windows 10 Home",1096
+"Lenovo Ideapad S530-13IWL (81J7004XMH)",2999.0,1,8,"NVIDIA GeForce MX150",2,"Intel Core i5-8265U",1.6,4,8,13.3,"Windows 10 Home",1097
+"Asus ZenBook UX330UA (UX330UA-FC065T)",2999.0,0,8,"Intel HD Graphics 620",0,"Intel Core i7-7500U",2.7,2,4,13.3,"Windows 10 Home",1098
+"HP Pavilion 15-cs3029nw (9CQ77EA)",2999.0,0,8,"Intel UHD Graphics 620",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",1099
+"HP 15s-fq1003na (8UD82EAR)",2999.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",1100
+"HP 17-By3065st (9VV70UAR)",2999.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,17.3,"Windows 10 Home",1101
+"HP 17-by2008ca (7PV36UAR)",2999.0,1,12,"Intel UHD Graphics 620",0,"Intel Core i5-10210U",1.6,4,8,17.3,"Windows 10 Home",1102
+"HP 15s-fq2040nw",2999.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1103
+"HP 15-dw1001nw (2B4S2EA)",2999.0,0,8,"Intel UHD Graphics 620",0,"Intel Core i5-10210U",1.6,4,8,15.6,"Windows 10 Home",1104
+"HP 15s-eq1010nw (21V78EA)",2999.0,0,16,"AMD Radeon RX Vega 6",0,"AMD Ryzen 5 4500U",2.3,6,6,15.6,"Windows 10 Home",1105
+"HP 250 G7 (14Z75EA) / 8 GB RAM / 1 TB SSD PCIe",2999.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",1106
+"HP 250 G7 (14Z75EA) / 32 GB RAM / 256 GB SSD PCIe",2999.0,0,32,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,15.6,"Brak",1107
+"HP 17-by3051cl (1Q8D3UAR)",2999.0,2,8,"Intel UHD Graphics 600",0,"Intel Core i5-1035G1",1.0,4,8,17.3,"Windows 10 Home",1108
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 10 Pro",2999.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",1109
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 2 TB SSD PCIe / Windows 10 Pro",2999.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",1110
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Home",2999.0,1,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Home",1111
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 12 GB RAM / 1 TB SSD PCIe / 1 TB SSD",2999.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1112
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 12 GB RAM / 2 TB SSD PCIe / 256 GB SSD",2999.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1113
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 2 TB SSD PCIe / 512 GB SSD",2999.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1114
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 24 GB RAM / 2 TB SSD PCIe",2999.0,0,24,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1115
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 8 GB RAM / 512 GB SSD PCIe / 2 TB SSD / Windows 11 S",2999.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1116
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 2 TB SSD PCIe / 512 GB SSD / Windows 11 S",2999.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1117
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 2 TB SSD PCIe / 1 TB SSD / Windows 11 S",2999.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1118
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 20 GB RAM / 256 GB SSD PCIe / 2 TB SSD / Windows 11 S",2999.0,0,20,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1119
+"Lenovo V15 G2 ALC (82KD008YPB)",2999.0,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Home",1120
+"HP 17-cn0049nw (4L240EA)",2999.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 10 Home",1121
+"Asus VivoBook 17 S712JA (S712JA-WH54)",2999.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i5-1035G1",1.0,4,8,17.3,"Brak",1122
+"Asus Vivobook 15 X509JB (X509JB-EJ014T)",2999.0,1,8,"NVIDIA GeForce MX110",2,"Intel Core i5-1035G1",1.0,4,8,15.6,"Windows 10 Home",1123
+"Lenovo IdeaPad 3 15ADA05 (82KU00AAUS)",2999.0,1,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",1124
+"HP 15s-eq1123nw (37J20EA)",2999.0,1,16,"AMD Radeon RX Vega 6",0,"AMD Ryzen 5 4500U",2.3,6,6,15.6,"Windows 10 Home",1125
+"HP 17-by1003ca (6GJ18UAR 128GB)",2999.0,0,8,"Intel HD Graphics 620",0,"Intel Core i5-8265U",1.6,4,8,17.3,"Windows 10 Home",1126
+"HP 15-ef2126wm (4J771UA)",2999.0,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",1127
+"HP 15-dw3003nx (3V0C3EA)",2999.0,1,8,"NVIDIA GeForce MX450",2,"Intel Core i7-1165G7",2.8,4,8,15.6,"Windows 10 Home",1128
+"HP ENVY 14-eb0021nl (3Y6B7EA)",2999.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,14.0,"Windows 10 Home",1129
+"HP 17-cn0304nw (4H3V0EA)",2999.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 10 Home",1130
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / 256 GB SSD / Windows 10 Home",2999.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1131
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 1 TB SSD PCIe / Windows 10 Home",2999.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1132
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 1 TB SSD PCIe / Windows 10 Home",2999.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1133
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 10 Home",2999.0,1,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1134
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Home",2999.0,2,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1135
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2999.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Pro",1136
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / 256 GB SSD / Windows 11 Home",2999.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1137
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2999.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1138
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2999.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1139
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 Home",2999.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1140
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 Home",2999.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1141
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 Pro",2999.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",1142
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2999.0,1,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",1143
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2999.0,1,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",1144
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 12 GB RAM / 1 TB SSD PCIe / 2 TB SSD",2999.0,0,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1145
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 2 TB SSD PCIe / 1 TB SSD",2999.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1146
+"Lenovo IdeaPad Flex 5 14ITL05 (82HS00D1MH)",2999.0,2,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,14.0,"Windows 10 Home",1147
+"Lenovo IdeaPad 3 17ITL (82H900GKPB) / 8 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2999.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 11 Home",1148
+"Lenovo IdeaPad 3 17ITL (82H900GKPB) / 12 GB RAM / 1 TB SSD PCIe / Windows 11 Home",2999.0,7,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 11 Home",1149
+"Lenovo IdeaPad 3 17ITL (82H900GKPB) / 12 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 Home",2999.0,1,12,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 11 Home",1150
+"Lenovo IdeaPad 3 17ITL (82H900GKPB) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 Home",2999.0,1,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,17.3,"Windows 11 Home",1151
+"Lenovo IdeaPad 3 15ABA7 (82RN0055PB) / 8 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",2999.0,1,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 10 Pro",1152
+"Lenovo IdeaPad 3 15ABA7 (82RN0055PB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",2999.0,0,8,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,12,15.6,"Windows 11 Pro",1153
+"HP 15s-eq2162nw Ryzen 3 5300U / 8 GB / 512 GB / W11 (597A6EA)",2999.0,0,8,"AMD Radeon RX Vega 6",0,"AMD Ryzen 3 5300U",2.6,4,8,15.6,"Windows 11 Home",1154
+"Lenovo ThinkBook 15-IIL (20SM002LPB)",3000.0,1,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",1155
+"Acer Aspire 3 i5-1135G7 / 16 GB / 512 GB / W11 (NX.ADDEP.01K)",3008.79,6,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1156
+"Asus ExpertBook B1 B1400 (B1400CEAE-EB2676R)",3013.96,4,8,"Intel Iris Xe",0,"Intel Core i3-1115G4",3.0,2,4,14.0,"Windows 10 Pro",1157
+"Dell Vostro 3501 (N6501VN3501EMEA01_2105)",3017.0,0,4,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Pro",1158
+"HP Pavilion 15-eh2115nw Ryzen 5 5625U / 16 GB / 512 GB / W11 (715R7EA)",3017.4,2,16,"AMD Radeon RX Vega 7",0,"AMD Ryzen 5 5625U",2.3,6,8,15.6,"Windows 11 Home",1159
+"Dell Inspiron 3511 (3511-3162)",3017.95,3,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1160
+"Dell Vostro 3510 i3-1115G4 / 8 GB / 512 GB / W11 Pro (N8801VN3510EMEA01_N1_PS)",3023.71,8,8,"Intel UHD Graphics Xe G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Pro",1161
+"Asus ExpertBook B1 B1500 (B1500CEAE-BQ1669R)",2874.99,2,8,"Intel Iris Xe",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 10 Pro",1162
+"Asus VivoBook 15 X515EA (X515EA-BQ1226W)",2479.0,14,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 Home",1163
+"HP 255 G7 (15A08EA) 12 GB RAM/ 512 GB M.2 PCIe/ Windows 10 Home",3141.13,1,12,"AMD Radeon RX Vega 3",0,"AMD Ryzen 3 3200U",2.6,2,4,15.6,"Windows 10 Home",1164
+"Acer Extensa EX215-32 (NX.EG8EP.008) / 8 GB RAM / 512 GB SSD PCIe / 2 TB SSD / Windows 10 Home",3049.0,0,8,"Intel UHD Graphics G1",0,"Intel Core i3-1005G1",1.2,2,4,15.6,"Windows 10 Home",1165
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 1 TB SSD PCIe / 1 TB SSD",3049.0,1,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1166
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 16 GB RAM / 2 TB SSD PCIe / 256 GB SSD",3049.0,0,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1167
+"Asus VivoBook 15 X515EA (X515EA-BQ1226) / 8 GB RAM / 512 GB SSD PCIe / 2 TB SSD",3049.0,0,8,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Brak",1168
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 12 GB RAM / 512 GB SSD PCIe / 2 TB SSD / Windows 11 S",3049.0,0,12,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1169
+"Lenovo IdeaPad 3 15ITL6 (82H801QNPB) / 4 GB RAM / 1 TB SSD PCIe / 2 TB SSD / Windows 11 S",3049.0,0,4,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,15.6,"Windows 11 S",1170
+"HP 15s-eq1029nw (201L1EA)",3049.0,1,16,"AMD Radeon Graphics",0,"AMD Ryzen 5 4500U",2.3,6,6,15.6,"Windows 10 Home",1171
+"HP 17-cn0039nw (4L239EA) / 16 GB RAM / 1 TB SSD PCIe / Windows 11 Home",3049.0,1,16,"Intel UHD Graphics G4",0,"Intel Core i3-1115G4",3.0,2,4,17.3,"Windows 11 Home",1172
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / 512 GB SSD / Windows 10 Home",3049.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1173
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 1 TB SSD PCIe / Windows 10 Home",3049.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1174
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 10 Home",3049.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1175
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 10 Home",3049.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Home",1176
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 10 Pro",3049.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Pro",1177
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 512 GB SSD PCIe / Windows 10 Pro",3049.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 10 Pro",1178
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / 512 GB SSD / Windows 11 Home",3049.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1179
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 512 GB SSD PCIe / 256 GB SSD / Windows 11 Home",3049.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Home",1180
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 1 TB SSD PCIe / Windows 11 Pro",3049.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",1181
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 Pro",3049.0,0,8,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",1182
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 16 GB RAM / 1 TB SSD PCIe / 2 TB SSD",3049.0,0,16,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1183
+"Asus VivoBook 15 X515EA (X515EA-BQ1445) / 24 GB RAM / 2 TB SSD PCIe / 1 TB SSD",3049.0,0,24,"Intel Iris Xe",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Brak",1184
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 1 TB SSD PCIe / 512 GB SSD / Windows 10 Home",3049.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",1185
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 512 GB SSD PCIe / 1 TB SSD / Windows 10 Home",3049.0,0,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 10 Home",1186
+"Lenovo IdeaPad 5 15ALC05 (82LN00HMPB) / 8 GB RAM / 512 GB SSD PCIe / 512 GB SSD / Windows 11 Pro",3049.0,1,8,"AMD Radeon Graphics",0,"AMD Ryzen 5 5500U",2.1,6,12,15.6,"Windows 11 Pro",1187
+"Lenovo V15 G2 ITL (82KB016KPB) / 8 GB RAM / 512 GB SSD PCIe / Windows 11 Pro",3049.0,1,8,"Intel Iris Plus Graphics G7",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",1188
+"Lenovo V15 G2 ITL (82KB016KPB) / 12 GB RAM / 256 GB SSD PCIe / Windows 11 Pro",3049.0,0,12,"Intel Iris Plus Graphics G7",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",1189
+"Lenovo V15 G2 ITL (82KB016KPB) / 16 GB RAM / 256 GB SSD PCIe / Windows 11 Pro",3049.0,3,16,"Intel Iris Plus Graphics G7",0,"Intel Core i5-1135G7",2.4,4,8,15.6,"Windows 11 Pro",1190
